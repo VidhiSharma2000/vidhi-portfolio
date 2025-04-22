@@ -2,10 +2,125 @@
 title: "Contact"
 ---
 
-## Let’s Connect!
+## Get In Touch
 
-Feel free to reach out through the platforms below:
+I'm always open to discussing new opportunities, collaborations, or simply connecting with fellow professionals in data analytics and technology. Feel free to reach out through any of the methods below.
 
-- 📧 Email: [sharmavidhi3008@gmail.com](mailto:sharmavidhi3008@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/vidhi-sharma](https://linkedin.com/in/vidhi-sharma)  
-- 💻 GitHub: [github.com/VidhiSharma2000](https://github.com/VidhiSharma2000)
+### Contact Information
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .card .p-4 .mb-4}
+#### Email
+[sharmavidhi3008@gmail.com](mailto:sharmavidhi3008@gmail.com)
+
+Email is the best way to reach me for professional inquiries, job opportunities, or detailed questions about my work and experience.
+:::
+
+::: {.g-col-12 .g-col-md-6 .card .p-4 .mb-4}
+#### Phone
++1 (857) 867-6963
+
+Available for calls and text messages during business hours (Eastern Time). Please email first for scheduling calls when possible.
+:::
+
+:::
+
+### Professional Profiles
+
+Connect with me on professional platforms to see more of my work and stay updated on my latest projects:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card .p-4 .mb-4 .text-center}
+#### LinkedIn
+[![LinkedIn](images/linkedin-icon.png){width=64px}](https://in.linkedin.com/in/17vidhisharma)
+
+Connect with me on LinkedIn for professional networking, updates on my career, and industry insights.
+
+[View Profile](https://in.linkedin.com/in/17vidhisharma){.btn .btn-primary .mt-3}
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-4 .mb-4 .text-center}
+#### GitHub
+[![GitHub](images/github-icon.png){width=64px}](https://github.com/VidhiSharma2000)
+
+Explore my code repositories, personal projects, and contributions to open-source initiatives.
+
+[View Profile](https://github.com/VidhiSharma2000){.btn .btn-primary .mt-3}
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-4 .mb-4 .text-center}
+#### Portfolio
+[![Portfolio](images/portfolio-icon.png){width=64px}](/)
+
+Visit my portfolio website to see detailed case studies of my projects and professional experience.
+
+[Browse Portfolio](/projects.qmd){.btn .btn-primary .mt-3}
+:::
+
+:::
+
+## Contact Form
+
+Have a specific question or inquiry? Fill out the form below, and I'll get back to you as soon as possible.
+
+<form class="contact-form">
+  <div class="mb-3">
+    <label for="name" class="form-label">Name</label>
+    <input type="text" class="form-control" id="name" placeholder="Your Name">
+  </div>
+  
+  <div class="mb-3">
+    <label for="email" class="form-label">Email</label>
+    <input type="email" class="form-control" id="email" placeholder="your.email@example.com">
+  </div>
+  
+  <div class="mb-3">
+    <label for="subject" class="form-label">Subject</label>
+    <input type="text" class="form-control" id="subject" placeholder="What is this regarding?">
+  </div>
+  
+  <div class="mb-3">
+    <label for="message" class="form-label">Message</label>
+    <textarea class="form-control" id="message" rows="5" placeholder="Your message here..."></textarea>
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Send Message</button>
+</form>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const form = document.querySelector('.contact-form');
+  
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    alert('Thank you for your message! This is a demo form - in a real implementation, this would send your message to Vidhi Sharma.');
+    form.reset();
+  });
+});
+</script>
+
+## Location
+
+Currently based in Boston, Massachusetts, I'm open to remote opportunities as well as positions in the Greater Boston area.
+
+<div class="card mb-4">
+  <div class="card-body">
+    <h3 class="card-title">Boston, MA</h3>
+    <p class="card-text">
+      Boston is a hub for education, technology, and innovation, home to numerous universities and tech companies. It's an exciting place to be for someone in the fields of data analytics and technology.
+    </p>
+  </div>
+</div>
+
+## Availability
+
+I'm currently pursuing my Master's degree at Boston University and am available for:
+
+- Part-time positions and internships during the academic year
+- Full-time opportunities starting Summer 2025
+- Freelance and consulting projects with flexible scheduling
+- Networking and informational interviews
+
+Thank you for your interest in connecting! I look forward to hearing from you and exploring potential collaborations or opportunities.

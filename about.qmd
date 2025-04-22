@@ -2,8 +2,77 @@
 title: "About Me"
 ---
 
-## Hello, I’m Vidhi!
+## Professional Profile
 
-I'm a passionate analytics student at Boston University with a love for problem-solving, strategy, and turning data into real-world impact. I’ve worked on everything from automating dashboards at TransUnion to exploring employment trends and consumer behavior in my personal projects.
+Hello! I'm Vidhi, a passionate analytics student currently pursuing my Master of Science in Applied Business Analytics at Boston University. With a background in Computer Science and professional experience as a Business Analyst, I'm developing advanced skills to tackle complex problems through technology and analytics.
 
-I'm currently pursuing my MS in Applied Business Analytics and looking for opportunities to create meaningful change through data-driven innovation.
+My journey in data started during my undergraduate studies, where I discovered the power of transforming raw data into meaningful insights. Since then, I've been on a mission to leverage data-driven approaches to solve real-world challenges and enable better business decisions.
+
+## How I Help Organizations
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Data-Driven Decision Making
+I help organizations translate complex data into actionable insights, enabling informed decision-making at all levels of the business. By identifying patterns and trends, I provide the foundation for strategic planning and operational improvements.
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Process Optimization
+I analyze business processes to identify inefficiencies and bottlenecks, then develop and implement data-driven solutions to streamline operations. This leads to improved workflow efficiency, reduced costs, and enhanced productivity.
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Technology Integration
+I bridge the gap between business needs and technical solutions, implementing analytics tools and technologies that align with organizational goals. My technical background allows me to communicate effectively with both business stakeholders and technical teams.
+:::
+
+:::
+
+## My Approach
+
+I believe that effective analytics is not just about technical skills but also about understanding the business context and communicating insights clearly. My approach combines:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Data-Driven Methodology
+- Begin with clearly defined business questions
+- Collect and clean relevant data
+- Apply appropriate analytical techniques
+- Validate findings and test hypotheses
+- Translate results into business recommendations
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Collaborative Mindset
+- Partner with stakeholders to understand needs
+- Communicate complex findings in accessible terms
+- Work cross-functionally to implement solutions
+- Continuously learn and adapt to new challenges
+- Share knowledge and mentor colleagues
+:::
+
+:::
+
+## Professional Interests
+
+My current professional interests include:
+
+- Predictive analytics and forecasting models
+- Machine learning applications in business
+- Process optimization through data automation
+- Data visualization and storytelling
+- Ethical considerations in data analytics
+
+## Personal Interests
+
+Beyond my professional pursuits, I enjoy:
+
+- Exploring new data visualization techniques and tools
+- Contributing to open-source data science projects
+- Attending analytics conferences and workshops
+- Reading about emerging trends in technology and business
+- Hiking and spending time outdoors to recharge
+
+Feel free to [contact me](/contact.qmd) if you'd like to discuss potential collaborations, job opportunities, or just connect to share ideas about data analytics!

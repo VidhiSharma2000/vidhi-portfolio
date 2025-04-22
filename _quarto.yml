@@ -1,27 +1,52 @@
-project:
+  project:
   type: website
   output-dir: docs
+  resources:
+    - resume/
 
 website:
   title: "Vidhi A. Sharma"
+  description: "Personal Portfolio | Business Analytics Student and Professional"
+  favicon: "images/favicon.png"
   navbar:
+    background: light
+    logo: "images/logo.png"
     left:
-      - href: "#about-me"
-        text: "About Me"
-      - href: "#education"
-        text: "Education"
-      - href: "#skills"
-        text: "Skills"
-      - href: "#experience"
-        text: "Experience"
-      - href: "#projects"
-        text: "Projects"
-      - href: "#contact"
-        text: "Contact"
+      - text: "About"
+        href: about.qmd
+      - text: "Education"
+        href: education.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Experience"
+        href: experience.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/VidhiSharma2000
+      - icon: linkedin
+        href: https://in.linkedin.com/in/17vidhisharma
+      - icon: envelope
+        href: "mailto:sharmavidhi3008@gmail.com"
+
+  page-footer:
+    left: "© 2025 Vidhi A. Sharma. All rights reserved."
+    right:
+      - icon: github
+        href: https://github.com/VidhiSharma2000
+      - icon: linkedin
+        href: https://in.linkedin.com/in/17vidhisharma
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: false
-    smooth-scroll: true
+    toc: true
+    page-layout: full
+    code-copy: true
+    code-line-numbers: true

@@ -1,0 +1,122 @@
+---
+title: "Education"
+---
+
+## Academic Background
+
+My educational journey has equipped me with a strong foundation in computer science and business analytics, preparing me to tackle complex data challenges in professional settings.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .card .mb-4}
+![](images/bu-logo.jpg){fig-alt="Boston University logo" .card-img-top}
+
+### Boston University
+**Master of Science, Applied Business Analytics**  
+*September 2024 - Present*
+
+The Applied Business Analytics program at Boston University combines technical skills with business acumen, preparing students to leverage data for strategic decision-making.
+
+#### Key Coursework:
+- CS5100: Foundations of Artificial Intelligence
+- CS5330: Pattern Recognition & Computer Vision
+- CS5800: Algorithms
+- CS6140: Machine Learning
+- Business Statistics and Data Visualization
+- Predictive Analytics for Business
+- Data Mining and Management
+:::
+
+::: {.g-col-12 .g-col-md-6 .card .mb-4}
+![](images/mit-wpu-logo.jpg){fig-alt="MIT World Peace University logo" .card-img-top}
+
+### MIT World Peace University
+**Bachelor of Science, Computer Science**  
+*GPA: 3.83/4.00*  
+*August 2019 - October 2022*
+
+My undergraduate education provided a strong foundation in computer science principles, programming, and software development, with a focus on data structures and algorithms.
+
+#### Key Coursework:
+- Data Structures and Algorithms
+- Database Management Systems
+- Object-Oriented Programming
+- Web Development
+- Software Engineering
+- Operating Systems
+- Computer Networks
+:::
+
+:::
+
+## Professional Certifications
+
+In addition to my formal education, I've pursued several professional certifications to enhance my skills in specific areas:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Front-End Development
+**Issuing Organization:** Meta  
+**Date Completed:** March 2024
+
+This certification focused on modern web development using HTML5, CSS3, JavaScript, and responsive design principles, providing hands-on experience with front-end frameworks.
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### HTML, CSS, JavaScript
+**Issuing Organization:** Johns Hopkins University  
+**Date Completed:** January 2023
+
+Comprehensive web development certification covering fundamental and advanced concepts in HTML, CSS, and JavaScript, with emphasis on modern web application development.
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Python Basics
+**Issuing Organization:** University of Michigan  
+**Date Completed:** November 2022
+
+Certification in Python programming fundamentals, including data structures, algorithms, file handling, and basic data analysis using Python libraries.
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .card .p-3 .mb-3}
+### CS50x Computer Science
+**Issuing Organization:** HarvardX, Harvard University  
+**Date Completed:** August 2022
+
+Introduction to computer science and programming covering algorithms, data structures, resource management, software engineering, and web development using multiple languages including C, Python, SQL, and JavaScript.
+:::
+
+::: {.g-col-12 .g-col-md-6 .card .p-3 .mb-3}
+### Introduction to Psychology
+**Issuing Organization:** Yale University  
+**Date Completed:** May 2022
+
+This certification provided an understanding of human behavior and cognitive processes, which enhances my ability to analyze user behavior and create more effective data visualizations and user interfaces.
+:::
+
+:::
+
+## Continuing Education
+
+I believe in lifelong learning and regularly participate in workshops, webinars, and online courses to stay current with emerging technologies and analytical methods. Some recent learning initiatives include:
+
+- **AI in Action Workshop Series** (September 2024)
+- **Advanced Data Visualization with Tableau** (July 2024)
+- **AWS Cloud Practitioner Essentials** (May 2024)
+- **SQL for Data Science** (March 2024)
+
+## Academic Achievements
+
+Throughout my academic career, I've been recognized for excellence in various areas:
+
+- Monash Data Futures Institute PhD Top-Up Scholarship (2021-2024)
+- Dean's List, MIT World Peace University (2020-2022)
+- Outstanding Undergraduate Research Award (2021)
+- Top Performer in Data Structures and Algorithms (2020)
+
+My education has provided me with both theoretical knowledge and practical skills that I apply daily in my professional work and personal projects.

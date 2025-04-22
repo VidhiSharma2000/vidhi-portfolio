@@ -2,16 +2,101 @@
 title: "Projects"
 ---
 
-## Featured Projects
+This page showcases my key academic and personal projects, demonstrating my technical abilities and analytical skills.
 
-### 🏘️ New York Real Estate Analysis
-Led time series and regression analysis on residential real estate data to identify sales trends and predict price movements.
+## Academic Projects
 
-### 🧪 Stickley Adhesives Operations Report
-Mapped out operational bottlenecks, proposed process optimizations, and modeled improvement strategies in a detailed management report.
+### <a name="real-estate"></a>New York Real Estate Analysis
 
-### 💄 Skincare Sales Data Analysis
-Explored consumer behavior, product pricing, and seasonal trends in the beauty industry. Currently building a dashboard to visualize key insights.
+![](images/project1.jpg){fig-alt="New York Real Estate Analysis" .img-fluid .rounded}
 
-### 🤖 AI vs Non-AI Job Growth Analysis
-Compared job trends across industries. Visualized results in an AWS-hosted dashboard showing the AI-driven job boom.
+**Tools & Technologies:** R, Time Series Analysis, Regression Modeling, Data Visualization
+
+**Description:**  
+Led time series and regression analysis on residential real estate data to identify key sales trends and predictors across different New York neighborhoods.
+
+**Key Contributions:**
+- Analyzed 5+ years of historical property data to identify seasonal patterns and price drivers
+- Built predictive models with 85% accuracy to forecast future price trends
+- Created interactive visualizations showing neighborhood-by-neighborhood price evolution
+- Identified key factors influencing property values, including proximity to public transport and school district ratings
+
+**Outcome:**  
+The analysis provided actionable insights for real estate investors and urban planners, highlighting areas with growth potential and revealing the impact of public infrastructure on property values.
+
+---
+
+### <a name="adhesives"></a>Stickley Adhesives Operations Analysis & Process Optimization
+
+![](images/project3.jpg){fig-alt="Stickley Adhesives Operations Analysis" .img-fluid .rounded}
+
+**Tools & Technologies:** Excel, Process Mapping, Statistical Analysis, Cost-Benefit Analysis
+
+**Description:**  
+Analyzed business processes for a manufacturing company and proposed workflow improvements in a comprehensive managerial report for Operations Management course.
+
+**Key Contributions:**
+- Conducted time-motion studies to identify bottlenecks in production processes
+- Developed process flow diagrams to visualize current state and proposed improvements
+- Performed cost-benefit analysis of implementing recommended changes
+- Created implementation timeline and change management framework
+
+**Outcome:**  
+Recommendations projected to reduce production time by 18% and decrease material waste by 12%, with potential annual savings of $125,000 if implemented.
+
+---
+
+## Personal Projects
+
+### <a name="skincare"></a>Skincare Sales Data Analysis
+
+![](images/project4.jpg){fig-alt="Skincare Sales Data Analysis" .img-fluid .rounded}
+
+**Tools & Technologies:** Python, Pandas, Tableau, SQL
+
+**Description:**  
+Self-initiated project exploring consumer behavior, sales trends, and pricing strategy in the beauty industry, currently working on dashboard deployment.
+
+**Key Contributions:**
+- Collected and cleaned sales data from multiple sources using Python and SQL
+- Analyzed customer segmentation and purchasing patterns
+- Identified correlation between pricing strategies and consumer retention
+- Built interactive Tableau dashboard to visualize findings
+
+**Outcome:**  
+Created a comprehensive analysis that provides insights into optimal pricing strategies, seasonal trends, and customer demographics. Currently finalizing an interactive dashboard for publication.
+
+---
+
+### <a name="job-growth"></a>AI vs Non-AI Job Growth Analysis
+
+![](images/project2.jpg){fig-alt="AI vs Non-AI Job Growth Analysis" .img-fluid .rounded}
+
+**Tools & Technologies:** Python, AWS, Data Visualization, Web Scraping
+
+**Description:**  
+Studied employment trends across industries in 2024 and visualized insights in an AWS-deployed dashboard to understand the impact of AI adoption on job markets.
+
+**Key Contributions:**
+- Gathered data from multiple job boards and economic reports through web scraping
+- Analyzed growth patterns in AI-centric roles versus traditional positions
+- Developed interactive visualizations showing industry-specific trends
+- Deployed results as a web application using AWS services
+
+**Outcome:**  
+The analysis revealed a 34% increase in AI-related positions while showing varying impacts across different industries. The interactive dashboard allows users to explore trends by industry, role type, and geographic region.
+
+---
+
+## Technical Skills Demonstrated
+
+These projects showcase my abilities in:
+
+- **Data Analysis:** Statistical modeling, regression analysis, time series forecasting
+- **Programming:** Python, R, SQL
+- **Data Visualization:** Tableau, matplotlib, ggplot2
+- **Cloud Services:** AWS deployment and configuration
+- **Domain Knowledge:** Real estate, operations management, consumer behavior
+- **Project Management:** End-to-end project planning and execution
+
+I'm constantly working on new projects to expand my skills and explore new areas of analytics. Check back regularly for updates!

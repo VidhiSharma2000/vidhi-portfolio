@@ -1,0 +1,103 @@
+---
+title: "Professional Experience"
+---
+
+## Work History
+
+My professional journey spans roles in data analysis, software development, and database management, providing me with a diverse skill set and cross-functional expertise.
+
+::: {.timeline}
+
+::: {.timeline-item}
+## Analyst
+### Maharaj Multi-Systems
+::: {.timeline-date}
+January 2024 - July 2024
+:::
+
+As an Analyst at Maharaj Multi-Systems, I focused on optimizing operational workflows and improving data accuracy across business systems.
+
+**Key Responsibilities:**
+- Conducted in-depth data analysis to identify operational inefficiencies and opportunities for improvement
+- Maintained and improved CRM systems (Salesforce, HubSpot) to enhance data quality and user experience
+- Collaborated with cross-functional teams to implement process improvements and optimize resource allocation
+- Developed and maintained dashboards for monitoring key performance indicators and business metrics
+- Provided analytical support for decision-making across departments
+
+**Key Achievements:**
+- Boosted workflow efficiency by 15% through operational data analysis and process reengineering
+- Reduced data processing errors by 25% through implementation of improved validation procedures
+- Improved CRM accuracy, leading to a 30% increase in client retention
+- Developed automated reporting solutions that saved team members an average of 5 hours per week
+- Streamlined operations workflow resulting in 20% reduced processing time for client requests
+:::
+
+::: {.timeline-item}
+## Software and Database Management Intern
+### Pimpri Chinchwad Media Communication
+::: {.timeline-date}
+August 2022 - August 2023
+:::
+
+During my internship at Pimpri Chinchwad Media Communication, I gained hands-on experience in software troubleshooting, database management, and technical support.
+
+**Key Responsibilities:**
+- Provided technical support and troubleshooting for internal software systems and applications
+- Assisted in database management, including data entry, cleaning, and basic query operations
+- Participated in deployment cycles and software updates under supervision
+- Supported end-to-end project management for small-scale technical initiatives
+- Communicated technical information to non-technical users and clients
+
+**Key Achievements:**
+- Reduced resolution times by 20% through implementation of efficient troubleshooting protocols
+- Assisted in successful deployment of 3 major system upgrades with minimal disruption
+- Contributed to database optimization that improved query response times by 15%
+- Increased client retention by 40% through solution-oriented communication and technical support
+- Developed a knowledge base that reduced recurring support tickets by 25%
+:::
+
+:::
+
+## Industry Experience
+
+My experience spans multiple industries, providing me with varied perspectives and adaptable problem-solving approaches:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Technology
+Working at technology-focused organizations has given me experience with software development lifecycles, technical project management, and cutting-edge tools. I've developed a deep understanding of how technology solutions are built, deployed, and maintained.
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Media & Communications
+My experience in media and communications has enhanced my understanding of content management, audience analytics, and communication strategies. I've learned how data can inform content creation and distribution decisions.
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Business Operations
+Across roles, I've gained expertise in business operations, including workflow optimization, resource allocation, and performance tracking. This experience allows me to bridge the gap between technical solutions and business needs.
+:::
+
+:::
+
+## Leadership & Teamwork
+
+Throughout my career, I've developed strong leadership and teamwork skills:
+
+- **Cross-functional Collaboration:** Worked effectively with diverse teams including developers, marketing professionals, and business stakeholders
+- **Project Coordination:** Assisted in coordinating small to medium-sized projects, ensuring alignment with goals and timelines
+- **Mentorship:** Provided guidance and support to junior team members, helping them develop technical skills
+- **Communication:** Translated technical concepts for non-technical audiences, facilitating better understanding and cooperation
+- **Problem-solving:** Led troubleshooting efforts that identified and resolved complex technical issues
+
+## Professional Development
+
+I continually invest in my professional growth through:
+
+- **Industry Certifications:** Pursuing relevant certifications to enhance my technical and analytical capabilities
+- **Workshops & Conferences:** Participating in industry events to stay current with emerging trends and technologies
+- **Networking:** Building relationships with professionals across industries to exchange ideas and best practices
+- **Self-directed Learning:** Regularly undertaking personal projects to develop new skills and deepen existing ones
+
+My diverse professional experiences have equipped me with a unique combination of technical expertise, analytical skills, and business acumen that I leverage to drive data-informed decision-making and operational excellence.

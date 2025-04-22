@@ -1,0 +1,292 @@
+---
+title: "Skills"
+---
+
+## Technical Expertise
+
+My skill set combines technical proficiency, analytical capabilities, and business acumen, enabling me to address complex challenges and deliver data-driven solutions.
+
+### Analytics & Data Science
+
+::: {.skill-category}
+**Statistical Analysis & Modeling**
+
+- Descriptive Statistics
+- Predictive Modeling
+- Regression Analysis
+- Time Series Forecasting
+- Hypothesis Testing
+- A/B Testing
+- Clustering & Classification
+- Dimensionality Reduction
+
+::: {.skill-bar}
+::: {.skill-progress style="width: 90%"}
+:::
+:::
+:::
+
+::: {.skill-category}
+**Data Visualization**
+
+- Interactive Dashboards
+- Executive Reporting
+- Visual Storytelling
+- Chart Selection & Design
+- Geospatial Visualization
+- Audience-Specific Visuals
+
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+
+::: {.skill-category}
+**Business Intelligence**
+
+- KPI Development & Tracking
+- Performance Metrics
+- Operational Analytics
+- Customer Analytics
+- Market Research
+- Competitive Analysis
+- Financial Analysis
+
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+
+### Programming & Tools
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.skill-category}
+**Programming Languages**
+
+- Python
+- R
+- SQL
+- JavaScript
+- HTML/CSS
+- Java
+- C/C++
+
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.skill-category}
+**Data Visualization Tools**
+
+- Tableau
+- Power BI
+- matplotlib
+- ggplot2
+- D3.js
+- Plotly
+- Excel Visualization
+
+::: {.skill-bar}
+::: {.skill-progress style="width: 90%"}
+:::
+:::
+:::
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.skill-category}
+**Database & Data Management**
+
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB)
+- Data Warehousing
+- ETL Processes
+- Data Cleaning
+- Data Integration
+- Version Control (Git)
+
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.skill-category}
+**Cloud & Big Data**
+
+- AWS
+- Azure
+- Google Cloud Platform
+- Hadoop
+- Spark
+- Databricks
+- Dataiku
+
+::: {.skill-bar}
+::: {.skill-progress style="width: 75%"}
+:::
+:::
+:::
+:::
+
+:::
+
+### Business & Operational Skills
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+#### Process Optimization
+- Workflow Analysis
+- Bottleneck Identification
+- Lean Methodology
+- Process Reengineering
+- Automation Opportunities
+- Continuous Improvement
+- Change Management
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+#### Project Management
+- Requirements Gathering
+- Stakeholder Management
+- Task Prioritization
+- Timeline Development
+- Resource Allocation
+- Risk Assessment
+- Progress Tracking
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+#### Communication
+- Data Storytelling
+- Executive Presentations
+- Technical Documentation
+- Cross-functional Collaboration
+- Client Communication
+- Training & Knowledge Transfer
+- Active Listening
+:::
+
+:::
+
+## Soft Skills
+
+Beyond technical capabilities, I've developed strong soft skills that enhance my effectiveness in professional settings:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3 .text-center .p-3}
+### Problem-Solving
+Approaching complex challenges with structured thinking and creative solutions
+:::
+
+::: {.g-col-12 .g-col-md-3 .text-center .p-3}
+### Adaptability
+Quickly adjusting to new technologies, methodologies, and business requirements
+:::
+
+::: {.g-col-12 .g-col-md-3 .text-center .p-3}
+### Collaboration
+Working effectively with diverse teams to achieve common goals
+:::
+
+::: {.g-col-12 .g-col-md-3 .text-center .p-3}
+### Time Management
+Efficiently prioritizing tasks and meeting deadlines in fast-paced environments
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3 .text-center .p-3}
+### Attention to Detail
+Ensuring accuracy and quality in all deliverables
+:::
+
+::: {.g-col-12 .g-col-md-3 .text-center .p-3}
+### Critical Thinking
+Evaluating information objectively to form reasoned judgments
+:::
+
+::: {.g-col-12 .g-col-md-3 .text-center .p-3}
+### Initiative
+Proactively identifying opportunities and taking action
+:::
+
+::: {.g-col-12 .g-col-md-3 .text-center .p-3}
+### Continuous Learning
+Consistently expanding knowledge and skills
+:::
+
+:::
+
+## Tools & Technologies
+
+Below is a visualization of the primary tools and technologies I work with regularly:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Analysis & Statistical Tools
+- Python (pandas, NumPy, scikit-learn)
+- R (tidyverse, ggplot2, dplyr)
+- SAS
+- SPSS
+- Excel (Advanced Functions, Pivot Tables)
+- Minitab
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Data Management & Databases
+- SQL (PostgreSQL, MySQL, MS SQL)
+- MongoDB
+- ETL Tools (Alteryx, Informatica)
+- Data Modeling Tools
+- Snowflake
+- Apache Spark
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+### Business Systems
+- CRM (Salesforce, HubSpot)
+- ERP Systems
+- Marketing Automation Tools
+- Project Management Tools (JIRA, Asana)
+- Collaboration Tools (Slack, Microsoft Teams)
+- Version Control (Git, GitHub)
+:::
+
+:::
+
+## Continuous Skill Development
+
+I'm committed to continuous learning and regularly enhance my skills through:
+
+- Online courses and certifications
+- Industry conferences and workshops
+- Professional reading and research
+- Hands-on projects and experimentation
+- Peer learning and knowledge sharing
+
+Currently, I'm focusing on expanding my expertise in:
+
+- Advanced machine learning techniques
+- Cloud-based data engineering
+- Business strategy and analytics alignment
+- Data ethics and governance
