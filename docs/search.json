@@ -1,121 +1,282 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
     "section": "",
-    "text": "Led time series and regression analysis on residential real estate data to identify sales trends and predict price movements.\n\n\n\nMapped out operational bottlenecks, proposed process optimizations, and modeled improvement strategies in a detailed management report.\n\n\n\nExplored consumer behavior, product pricing, and seasonal trends in the beauty industry. Currently building a dashboard to visualize key insights.\n\n\n\nCompared job trends across industries. Visualized results in an AWS-hosted dashboard showing the AI-driven job boom."
+    "text": "My skill set combines technical proficiency, analytical capabilities, and business acumen, enabling me to address complex challenges and deliver data-driven solutions.\n\n\n\nStatistical Analysis & Modeling\n\nDescriptive Statistics\nPredictive Modeling\nRegression Analysis\nTime Series Forecasting\nHypothesis Testing\nA/B Testing\nClustering & Classification\nDimensionality Reduction\n\n\n\n\n\n\n\n\nData Visualization\n\nInteractive Dashboards\nExecutive Reporting\nVisual Storytelling\nChart Selection & Design\nGeospatial Visualization\nAudience-Specific Visuals\n\n\n\n\n\n\n\n\nBusiness Intelligence\n\nKPI Development & Tracking\nPerformance Metrics\nOperational Analytics\nCustomer Analytics\nMarket Research\nCompetitive Analysis\nFinancial Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Languages\n\nPython\nR\nSQL\nJavaScript\nHTML/CSS\nJava\nC/C++\n\n\n\n\n\n\n\n\n\n\nData Visualization Tools\n\nTableau\nPower BI\nmatplotlib\nggplot2\nD3.js\nPlotly\nExcel Visualization\n\n\n\n\n\n\n\n\n\n\n\n\nDatabase & Data Management\n\nSQL (PostgreSQL, MySQL)\nNoSQL (MongoDB)\nData Warehousing\nETL Processes\nData Cleaning\nData Integration\nVersion Control (Git)\n\n\n\n\n\n\n\n\n\n\nCloud & Big Data\n\nAWS\nAzure\nGoogle Cloud Platform\nHadoop\nSpark\nDatabricks\nDataiku\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkflow Analysis\nBottleneck Identification\nLean Methodology\nProcess Reengineering\nAutomation Opportunities\nContinuous Improvement\nChange Management\n\n\n\n\n\nRequirements Gathering\nStakeholder Management\nTask Prioritization\nTimeline Development\nResource Allocation\nRisk Assessment\nProgress Tracking\n\n\n\n\n\nData Storytelling\nExecutive Presentations\nTechnical Documentation\nCross-functional Collaboration\nClient Communication\nTraining & Knowledge Transfer\nActive Listening"
   },
   {
-    "objectID": "projects.html#featured-projects",
-    "href": "projects.html#featured-projects",
-    "title": "Projects",
+    "objectID": "skills.html#technical-expertise",
+    "href": "skills.html#technical-expertise",
+    "title": "Skills",
     "section": "",
-    "text": "Led time series and regression analysis on residential real estate data to identify sales trends and predict price movements.\n\n\n\nMapped out operational bottlenecks, proposed process optimizations, and modeled improvement strategies in a detailed management report.\n\n\n\nExplored consumer behavior, product pricing, and seasonal trends in the beauty industry. Currently building a dashboard to visualize key insights.\n\n\n\nCompared job trends across industries. Visualized results in an AWS-hosted dashboard showing the AI-driven job boom."
+    "text": "My skill set combines technical proficiency, analytical capabilities, and business acumen, enabling me to address complex challenges and deliver data-driven solutions.\n\n\n\nStatistical Analysis & Modeling\n\nDescriptive Statistics\nPredictive Modeling\nRegression Analysis\nTime Series Forecasting\nHypothesis Testing\nA/B Testing\nClustering & Classification\nDimensionality Reduction\n\n\n\n\n\n\n\n\nData Visualization\n\nInteractive Dashboards\nExecutive Reporting\nVisual Storytelling\nChart Selection & Design\nGeospatial Visualization\nAudience-Specific Visuals\n\n\n\n\n\n\n\n\nBusiness Intelligence\n\nKPI Development & Tracking\nPerformance Metrics\nOperational Analytics\nCustomer Analytics\nMarket Research\nCompetitive Analysis\nFinancial Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Languages\n\nPython\nR\nSQL\nJavaScript\nHTML/CSS\nJava\nC/C++\n\n\n\n\n\n\n\n\n\n\nData Visualization Tools\n\nTableau\nPower BI\nmatplotlib\nggplot2\nD3.js\nPlotly\nExcel Visualization\n\n\n\n\n\n\n\n\n\n\n\n\nDatabase & Data Management\n\nSQL (PostgreSQL, MySQL)\nNoSQL (MongoDB)\nData Warehousing\nETL Processes\nData Cleaning\nData Integration\nVersion Control (Git)\n\n\n\n\n\n\n\n\n\n\nCloud & Big Data\n\nAWS\nAzure\nGoogle Cloud Platform\nHadoop\nSpark\nDatabricks\nDataiku\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkflow Analysis\nBottleneck Identification\nLean Methodology\nProcess Reengineering\nAutomation Opportunities\nContinuous Improvement\nChange Management\n\n\n\n\n\nRequirements Gathering\nStakeholder Management\nTask Prioritization\nTimeline Development\nResource Allocation\nRisk Assessment\nProgress Tracking\n\n\n\n\n\nData Storytelling\nExecutive Presentations\nTechnical Documentation\nCross-functional Collaboration\nClient Communication\nTraining & Knowledge Transfer\nActive Listening"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Resume",
-    "section": "",
-    "text": "You can download my latest resume here."
+    "objectID": "skills.html#soft-skills",
+    "href": "skills.html#soft-skills",
+    "title": "Skills",
+    "section": "Soft Skills",
+    "text": "Soft Skills\nBeyond technical capabilities, I’ve developed strong soft skills that enhance my effectiveness in professional settings:\n\n\nProblem-Solving\nApproaching complex challenges with structured thinking and creative solutions\n\n\nAdaptability\nQuickly adjusting to new technologies, methodologies, and business requirements\n\n\nCollaboration\nWorking effectively with diverse teams to achieve common goals\n\n\nTime Management\nEfficiently prioritizing tasks and meeting deadlines in fast-paced environments\n\n\n\n\nAttention to Detail\nEnsuring accuracy and quality in all deliverables\n\n\nCritical Thinking\nEvaluating information objectively to form reasoned judgments\n\n\nInitiative\nProactively identifying opportunities and taking action\n\n\nContinuous Learning\nConsistently expanding knowledge and skills"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Resume",
-    "section": "Education",
-    "text": "Education\nBoston University\nMS in Applied Business Analytics (2024–2025)\nMIT World Peace University\nBS in Computer Science – GPA: 3.83 (2019–2022)"
+    "objectID": "skills.html#tools-technologies",
+    "href": "skills.html#tools-technologies",
+    "title": "Skills",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\nBelow is a visualization of the primary tools and technologies I work with regularly:\n\n\nAnalysis & Statistical Tools\n\nPython (pandas, NumPy, scikit-learn)\nR (tidyverse, ggplot2, dplyr)\nSAS\nSPSS\nExcel (Advanced Functions, Pivot Tables)\nMinitab\n\n\n\nData Management & Databases\n\nSQL (PostgreSQL, MySQL, MS SQL)\nMongoDB\nETL Tools (Alteryx, Informatica)\nData Modeling Tools\nSnowflake\nApache Spark\n\n\n\nBusiness Systems\n\nCRM (Salesforce, HubSpot)\nERP Systems\nMarketing Automation Tools\nProject Management Tools (JIRA, Asana)\nCollaboration Tools (Slack, Microsoft Teams)\nVersion Control (Git, GitHub)"
   },
   {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Resume",
-    "section": "Skills",
-    "text": "Skills\n\nAnalytics: Statistical modeling, forecasting, visualization, KPIs\nTools: Python, R, SQL, Tableau, Power BI, Excel, AWS, Spark\nSoft Skills: Communication, strategy, problem-solving, leadership"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "Resume",
-    "section": "Experience",
-    "text": "Experience\nMaharaj Multi-Systems – Analyst\nBoosted efficiency by 15%, reduced errors by 25%, and increased CRM-driven client retention by 30%.\nPimpri Chinchwad Media – Intern\nCut support resolution time by 20%. Managed databases and led deployment cycles."
-  },
-  {
-    "objectID": "cv.html#certifications",
-    "href": "cv.html#certifications",
-    "title": "Resume",
-    "section": "Certifications",
-    "text": "Certifications\nFront-End (Meta), HTML/CSS/JS (Johns Hopkins), Python (UMich), CS50x (HarvardX), Psychology (Yale)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m a passionate analytics student at Boston University with a love for problem-solving, strategy, and turning data into real-world impact. I’ve worked on everything from automating dashboards at TransUnion to exploring employment trends and consumer behavior in my personal projects.\nI’m currently pursuing my MS in Applied Business Analytics and looking for opportunities to create meaningful change through data-driven innovation."
-  },
-  {
-    "objectID": "about.html#hello-im-vidhi",
-    "href": "about.html#hello-im-vidhi",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m a passionate analytics student at Boston University with a love for problem-solving, strategy, and turning data into real-world impact. I’ve worked on everything from automating dashboards at TransUnion to exploring employment trends and consumer behavior in my personal projects.\nI’m currently pursuing my MS in Applied Business Analytics and looking for opportunities to create meaningful change through data-driven innovation."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to reach out through the platforms below:\n\n📧 Email: sharmavidhi3008@gmail.com\n\n🌐 LinkedIn: linkedin.com/in/vidhi-sharma\n\n💻 GitHub: github.com/VidhiSharma2000"
-  },
-  {
-    "objectID": "contact.html#lets-connect",
-    "href": "contact.html#lets-connect",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to reach out through the platforms below:\n\n📧 Email: sharmavidhi3008@gmail.com\n\n🌐 LinkedIn: linkedin.com/in/vidhi-sharma\n\n💻 GitHub: github.com/VidhiSharma2000"
+    "objectID": "skills.html#continuous-skill-development",
+    "href": "skills.html#continuous-skill-development",
+    "title": "Skills",
+    "section": "Continuous Skill Development",
+    "text": "Continuous Skill Development\nI’m committed to continuous learning and regularly enhance my skills through:\n\nOnline courses and certifications\nIndustry conferences and workshops\nProfessional reading and research\nHands-on projects and experimentation\nPeer learning and knowledge sharing\n\nCurrently, I’m focusing on expanding my expertise in:\n\nAdvanced machine learning techniques\nCloud-based data engineering\nBusiness strategy and analytics alignment\nData ethics and governance"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Vidhi A. Sharma",
     "section": "",
-    "text": "Hi, I’m Vidhi Sharma, currently pursuing my Master’s in Applied Business Analytics at Boston University. With a background in Computer Science and hands-on experience in analytics, operations, and business strategy, I specialize in turning messy data into crystal-clear action.\nI’ve worked across a range of industries and tools, from streamlining backend workflows to building dashboards for non-technical decision-makers. My superpower is blending logic with creative clarity — turning technical insights into strategic action."
+    "text": "I’m a passionate analytics professional pursuing a Master of Science in Applied Business Analytics at Boston University. With a background in Computer Science and experience as a Business Analyst, I bridge technology and analytics to solve complex business challenges.\nMy expertise spans data analysis, statistical modeling, and business intelligence, strengthened by skills in Python, R, SQL, and visualization tools like Tableau and Power BI.\nThis portfolio showcases my academic projects, professional experience, and technical expertise. Explore to learn more about how I leverage data to drive insights and decision-making.\nView My Projects Download CV"
   },
   {
-    "objectID": "index.html#programming-analytics-data-science",
-    "href": "index.html#programming-analytics-data-science",
+    "objectID": "index.html#featured-skills",
+    "href": "index.html#featured-skills",
     "title": "Vidhi A. Sharma",
-    "section": "Programming, Analytics & Data Science",
-    "text": "Programming, Analytics & Data Science\n\nProficient in Python, R, SQL, Java, C++, and Shell Scripting. Skilled in OOP, algorithms, time series, segmentation, clustering, A/B testing. Libraries: pandas, scikit-learn, statsmodels, ggplot2, caret."
+    "section": "Featured Skills",
+    "text": "Featured Skills\n\n\nData Analytics\n\nStatistical modeling\nPredictive analytics\nTrend analysis\nKPI evaluation\nData visualization\n\n\n\nDatabase & Process Management\n\nSQL & NoSQL Databases\nETL workflows\nData pipelines\nProcess optimization\nWorkflow efficiency\n\n\n\nTechnical Development\n\nPython, R programming\nTableau, Power BI\nCloud platforms (AWS, Azure)\nVersion control (Git)\nAPI integration"
   },
   {
-    "objectID": "index.html#data-visualization-bi-automation",
-    "href": "index.html#data-visualization-bi-automation",
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
     "title": "Vidhi A. Sharma",
-    "section": "Data Visualization, BI & Automation",
-    "text": "Data Visualization, BI & Automation\n\nPower BI, Tableau, Excel, SAS. Dashboard design, user-centered storytelling, filters, DAX. Automated ETL and reporting using Python. Familiar with Dataiku for low-code ML."
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\n\n\nNew York Real Estate Analysis\nLed time series and regression analysis on residential real estate data to identify key sales trends and predictors.\nLearn More\n\n\n\n\n\nAI vs Non-AI Job Growth Analysis\nStudied employment trends across industries in 2024 and visualized insights in an AWS-deployed dashboard.\nLearn More"
   },
   {
-    "objectID": "index.html#databases-cloud-devops",
-    "href": "index.html#databases-cloud-devops",
+    "objectID": "index.html#recent-experience",
+    "href": "index.html#recent-experience",
     "title": "Vidhi A. Sharma",
-    "section": "Databases, Cloud & DevOps",
-    "text": "Databases, Cloud & DevOps\n\nWorked with PostgreSQL, MySQL, BigQuery, Spark SQL. Deployed solutions on AWS (S3, EC2, SageMaker), Azure. Built ETL pipelines, familiar with Airflow. Strong Git/GitHub skills."
+    "section": "Recent Experience",
+    "text": "Recent Experience\n\n\nAnalyst\n\nMaharaj Multi-Systems\n\nJanuary 2024 - July 2024\n\nBoosted workflow efficiency by 15% through operational data analysis to support better decision-making. Reduced data processing errors by 25% and improved CRM accuracy.\n\n\n\nSoftware and Database Management Intern\n\nPimpri Chinchwad Media Communication\n\nAugust 2022 - August 2023\n\nReduced resolution times by 20% through efficient troubleshooting and system diagnostics. Assisted in deployment cycles, contributing to end-to-end project management.\n\n\n\nView Full Experience"
   },
   {
-    "objectID": "index.html#web-and-full-stack-development",
-    "href": "index.html#web-and-full-stack-development",
-    "title": "Vidhi A. Sharma",
-    "section": "Web and Full-Stack Development",
-    "text": "Web and Full-Stack Development\n\nHTML, CSS, JavaScript, GitHub Pages. Projects built with Quarto, Markdown, YAML, JSON. Familiar with frontend architecture and web delivery for data storytelling."
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "My educational journey has equipped me with a strong foundation in computer science and business analytics, preparing me to tackle complex data challenges in professional settings.\n\n\n\n\n\nMaster of Science, Applied Business Analytics\nSeptember 2024 - Present\nThe Applied Business Analytics program at Boston University combines technical skills with business acumen, preparing students to leverage data for strategic decision-making.\n\n\n\nCS5100: Foundations of Artificial Intelligence\nCS5330: Pattern Recognition & Computer Vision\nCS5800: Algorithms\nCS6140: Machine Learning\nBusiness Statistics and Data Visualization\nPredictive Analytics for Business\nData Mining and Management\n\n\n\n\n\n\n\n\nBachelor of Science, Computer Science\nGPA: 3.83/4.00\nAugust 2019 - October 2022\nMy undergraduate education provided a strong foundation in computer science principles, programming, and software development, with a focus on data structures and algorithms.\n\n\n\nData Structures and Algorithms\nDatabase Management Systems\nObject-Oriented Programming\nWeb Development\nSoftware Engineering\nOperating Systems\nComputer Networks"
   },
   {
-    "objectID": "index.html#soft-skills-strengths",
-    "href": "index.html#soft-skills-strengths",
-    "title": "Vidhi A. Sharma",
-    "section": "Soft Skills & Strengths",
-    "text": "Soft Skills & Strengths\n\nExcellent communicator (written, visual, verbal). Detail-oriented, adaptable, structured problem solver. Team collaborator who thrives independently. Stakeholder-facing and results-driven."
+    "objectID": "education.html#academic-background",
+    "href": "education.html#academic-background",
+    "title": "Education",
+    "section": "",
+    "text": "My educational journey has equipped me with a strong foundation in computer science and business analytics, preparing me to tackle complex data challenges in professional settings.\n\n\n\n\n\nMaster of Science, Applied Business Analytics\nSeptember 2024 - Present\nThe Applied Business Analytics program at Boston University combines technical skills with business acumen, preparing students to leverage data for strategic decision-making.\n\n\n\nCS5100: Foundations of Artificial Intelligence\nCS5330: Pattern Recognition & Computer Vision\nCS5800: Algorithms\nCS6140: Machine Learning\nBusiness Statistics and Data Visualization\nPredictive Analytics for Business\nData Mining and Management\n\n\n\n\n\n\n\n\nBachelor of Science, Computer Science\nGPA: 3.83/4.00\nAugust 2019 - October 2022\nMy undergraduate education provided a strong foundation in computer science principles, programming, and software development, with a focus on data structures and algorithms.\n\n\n\nData Structures and Algorithms\nDatabase Management Systems\nObject-Oriented Programming\nWeb Development\nSoftware Engineering\nOperating Systems\nComputer Networks"
+  },
+  {
+    "objectID": "education.html#professional-certifications",
+    "href": "education.html#professional-certifications",
+    "title": "Education",
+    "section": "Professional Certifications",
+    "text": "Professional Certifications\nIn addition to my formal education, I’ve pursued several professional certifications to enhance my skills in specific areas:\n\n\nFront-End Development\nIssuing Organization: Meta\nDate Completed: March 2024\nThis certification focused on modern web development using HTML5, CSS3, JavaScript, and responsive design principles, providing hands-on experience with front-end frameworks.\n\n\nHTML, CSS, JavaScript\nIssuing Organization: Johns Hopkins University\nDate Completed: January 2023\nComprehensive web development certification covering fundamental and advanced concepts in HTML, CSS, and JavaScript, with emphasis on modern web application development.\n\n\nPython Basics\nIssuing Organization: University of Michigan\nDate Completed: November 2022\nCertification in Python programming fundamentals, including data structures, algorithms, file handling, and basic data analysis using Python libraries.\n\n\n\n\nCS50x Computer Science\nIssuing Organization: HarvardX, Harvard University\nDate Completed: August 2022\nIntroduction to computer science and programming covering algorithms, data structures, resource management, software engineering, and web development using multiple languages including C, Python, SQL, and JavaScript.\n\n\nIntroduction to Psychology\nIssuing Organization: Yale University\nDate Completed: May 2022\nThis certification provided an understanding of human behavior and cognitive processes, which enhances my ability to analyze user behavior and create more effective data visualizations and user interfaces."
+  },
+  {
+    "objectID": "education.html#continuing-education",
+    "href": "education.html#continuing-education",
+    "title": "Education",
+    "section": "Continuing Education",
+    "text": "Continuing Education\nI believe in lifelong learning and regularly participate in workshops, webinars, and online courses to stay current with emerging technologies and analytical methods. Some recent learning initiatives include:\n\nAI in Action Workshop Series (September 2024)\nAdvanced Data Visualization with Tableau (July 2024)\nAWS Cloud Practitioner Essentials (May 2024)\nSQL for Data Science (March 2024)"
+  },
+  {
+    "objectID": "education.html#academic-achievements",
+    "href": "education.html#academic-achievements",
+    "title": "Education",
+    "section": "Academic Achievements",
+    "text": "Academic Achievements\nThroughout my academic career, I’ve been recognized for excellence in various areas:\n\nMonash Data Futures Institute PhD Top-Up Scholarship (2021-2024)\nDean’s List, MIT World Peace University (2020-2022)\nOutstanding Undergraduate Research Award (2021)\nTop Performer in Data Structures and Algorithms (2020)\n\nMy education has provided me with both theoretical knowledge and practical skills that I apply daily in my professional work and personal projects."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to discussing new opportunities, collaborations, or simply connecting with fellow professionals in data analytics and technology. Feel free to reach out through any of the methods below.\n\n\n\n\n\nsharmavidhi3008@gmail.com\nEmail is the best way to reach me for professional inquiries, job opportunities, or detailed questions about my work and experience.\n\n\n\n+1 (857) 867-6963\nAvailable for calls and text messages during business hours (Eastern Time). Please email first for scheduling calls when possible.\n\n\n\n\n\nConnect with me on professional platforms to see more of my work and stay updated on my latest projects:\n\n\n\n\n\n\nLinkedIn\n\n\nConnect with me on LinkedIn for professional networking, updates on my career, and industry insights.\nView Profile\n\n\n\n\n\n\nGitHub\n\n\nExplore my code repositories, personal projects, and contributions to open-source initiatives.\nView Profile\n\n\n\n\n\n\nPortfolio\n\n\nVisit my portfolio website to see detailed case studies of my projects and professional experience.\nBrowse Portfolio"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to discussing new opportunities, collaborations, or simply connecting with fellow professionals in data analytics and technology. Feel free to reach out through any of the methods below.\n\n\n\n\n\nsharmavidhi3008@gmail.com\nEmail is the best way to reach me for professional inquiries, job opportunities, or detailed questions about my work and experience.\n\n\n\n+1 (857) 867-6963\nAvailable for calls and text messages during business hours (Eastern Time). Please email first for scheduling calls when possible.\n\n\n\n\n\nConnect with me on professional platforms to see more of my work and stay updated on my latest projects:\n\n\n\n\n\n\nLinkedIn\n\n\nConnect with me on LinkedIn for professional networking, updates on my career, and industry insights.\nView Profile\n\n\n\n\n\n\nGitHub\n\n\nExplore my code repositories, personal projects, and contributions to open-source initiatives.\nView Profile\n\n\n\n\n\n\nPortfolio\n\n\nVisit my portfolio website to see detailed case studies of my projects and professional experience.\nBrowse Portfolio"
+  },
+  {
+    "objectID": "contact.html#contact-form",
+    "href": "contact.html#contact-form",
+    "title": "Contact",
+    "section": "Contact Form",
+    "text": "Contact Form\nHave a specific question or inquiry? Fill out the form below, and I’ll get back to you as soon as possible.\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Your Name\"&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"your.email@example.com\"&gt;\n\n\n&lt;label for=\"subject\" class=\"form-label\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"subject\" placeholder=\"What is this regarding?\"&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" rows=\"5\" placeholder=\"Your message here...\"&gt;&lt;/textarea&gt;\n\n\nSend Message"
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "Contact",
+    "section": "Location",
+    "text": "Location\nCurrently based in Boston, Massachusetts, I’m open to remote opportunities as well as positions in the Greater Boston area.\n\n\n&lt;h3 class=\"card-title\"&gt;Boston, MA&lt;/h3&gt;\n&lt;p class=\"card-text\"&gt;\n  Boston is a hub for education, technology, and innovation, home to numerous universities and tech companies. It's an exciting place to be for someone in the fields of data analytics and technology.\n&lt;/p&gt;"
+  },
+  {
+    "objectID": "contact.html#availability",
+    "href": "contact.html#availability",
+    "title": "Contact",
+    "section": "Availability",
+    "text": "Availability\nI’m currently pursuing my Master’s degree at Boston University and am available for:\n\nPart-time positions and internships during the academic year\nFull-time opportunities starting Summer 2025\nFreelance and consulting projects with flexible scheduling\nNetworking and informational interviews\n\nThank you for your interest in connecting! I look forward to hearing from you and exploring potential collaborations or opportunities."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I’m Vidhi, a passionate analytics student currently pursuing my Master of Science in Applied Business Analytics at Boston University. With a background in Computer Science and professional experience as a Business Analyst, I’m developing advanced skills to tackle complex problems through technology and analytics.\nMy journey in data started during my undergraduate studies, where I discovered the power of transforming raw data into meaningful insights. Since then, I’ve been on a mission to leverage data-driven approaches to solve real-world challenges and enable better business decisions."
+  },
+  {
+    "objectID": "about.html#professional-profile",
+    "href": "about.html#professional-profile",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I’m Vidhi, a passionate analytics student currently pursuing my Master of Science in Applied Business Analytics at Boston University. With a background in Computer Science and professional experience as a Business Analyst, I’m developing advanced skills to tackle complex problems through technology and analytics.\nMy journey in data started during my undergraduate studies, where I discovered the power of transforming raw data into meaningful insights. Since then, I’ve been on a mission to leverage data-driven approaches to solve real-world challenges and enable better business decisions."
+  },
+  {
+    "objectID": "about.html#how-i-help-organizations",
+    "href": "about.html#how-i-help-organizations",
+    "title": "About Me",
+    "section": "How I Help Organizations",
+    "text": "How I Help Organizations\n\n\nData-Driven Decision Making\nI help organizations translate complex data into actionable insights, enabling informed decision-making at all levels of the business. By identifying patterns and trends, I provide the foundation for strategic planning and operational improvements.\n\n\nProcess Optimization\nI analyze business processes to identify inefficiencies and bottlenecks, then develop and implement data-driven solutions to streamline operations. This leads to improved workflow efficiency, reduced costs, and enhanced productivity.\n\n\nTechnology Integration\nI bridge the gap between business needs and technical solutions, implementing analytics tools and technologies that align with organizational goals. My technical background allows me to communicate effectively with both business stakeholders and technical teams."
+  },
+  {
+    "objectID": "about.html#my-approach",
+    "href": "about.html#my-approach",
+    "title": "About Me",
+    "section": "My Approach",
+    "text": "My Approach\nI believe that effective analytics is not just about technical skills but also about understanding the business context and communicating insights clearly. My approach combines:\n\n\nData-Driven Methodology\n\nBegin with clearly defined business questions\nCollect and clean relevant data\nApply appropriate analytical techniques\nValidate findings and test hypotheses\nTranslate results into business recommendations\n\n\n\nCollaborative Mindset\n\nPartner with stakeholders to understand needs\nCommunicate complex findings in accessible terms\nWork cross-functionally to implement solutions\nContinuously learn and adapt to new challenges\nShare knowledge and mentor colleagues"
+  },
+  {
+    "objectID": "about.html#professional-interests",
+    "href": "about.html#professional-interests",
+    "title": "About Me",
+    "section": "Professional Interests",
+    "text": "Professional Interests\nMy current professional interests include:\n\nPredictive analytics and forecasting models\nMachine learning applications in business\nProcess optimization through data automation\nData visualization and storytelling\nEthical considerations in data analytics"
+  },
+  {
+    "objectID": "about.html#personal-interests",
+    "href": "about.html#personal-interests",
+    "title": "About Me",
+    "section": "Personal Interests",
+    "text": "Personal Interests\nBeyond my professional pursuits, I enjoy:\n\nExploring new data visualization techniques and tools\nContributing to open-source data science projects\nAttending analytics conferences and workshops\nReading about emerging trends in technology and business\nHiking and spending time outdoors to recharge\n\nFeel free to contact me if you’d like to discuss potential collaborations, job opportunities, or just connect to share ideas about data analytics!"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "This page provides a downloadable version of my resume along with a brief overview of my professional background, skills, and accomplishments.\n\nDownload Full Resume (PDF)"
+  },
+  {
+    "objectID": "cv.html#resume-overview",
+    "href": "cv.html#resume-overview",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "This page provides a downloadable version of my resume along with a brief overview of my professional background, skills, and accomplishments.\n\nDownload Full Resume (PDF)"
+  },
+  {
+    "objectID": "cv.html#resume-preview",
+    "href": "cv.html#resume-preview",
+    "title": "Curriculum Vitae",
+    "section": "Resume Preview",
+    "text": "Resume Preview\nBelow is a preview of my resume content:\n\n\nProfessional Summary\nMaster’s student in Applied Business Analytics at Boston University with a knack for solving operational and analytical challenges through data. Blending tech fluency with structured thinking and a bias for action.\n\n\nEducation\nBoston University\nMaster of Science, Applied Business Analytics\nSeptember 2024 - Present\nMIT World Peace University\nBachelor of Science, Computer Science\n(GPA: 3.83/4.00) | August 2019 - October 2022\n\n\nProfessional Experience\nMaharaj Multi-Systems - Analyst\nJanuary 2024 - July 2024 - Boosted workflow efficiency by 15% through operational data analysis to support better decision-making - Reduced data processing errors by 25% and improved CRM accuracy (Salesforce, HubSpot), leading to a 30% increase in client retention - Partnered with cross-functional teams to streamline operations and optimize resource utilization across departments\nPimpri Chinchwad Media Communication - Software and Database Management Intern\nAugust 2022 - August 2023 - Reduced resolution times by 20% through efficient troubleshooting and system diagnostics - Assisted in deployment cycles, contributing to end-to-end project management, electronics integration, and database management - Increased client retention by 40% through solution-oriented communication, customer service and technical support\n\n\nKey Projects\nNew York Real Estate Analysis\nLed time series and regression analysis on residential real estate data to identify key sales trends and predictors.\nStickley Adhesives Operations Analysis & Process Optimization Report\nAnalyzed business processes and proposed workflow improvements in a managerial report for Operations Management.\nSkincare Sales Data Analysis\nSelf-initiated project exploring consumer behavior, sales trends, and pricing strategy in the beauty industry, currently working on dashboard deployment.\nAI vs Non-AI Job Growth Analysis\nStudied employment trends across industries in 2024 and visualized insights in an AWS-deployed dashboard.\n\n\nSkills\nAnalytics\nData analysis, statistical modeling, predictive analytics, forecasting, trend analysis, KPI evaluation, data visualization, business intelligence, marketing analytics, consumer behavior analysis, dashboard development, operations management, process optimization, workflow efficiency, performance tracking, cost reduction, lean methodology.\nTools & Technologies\nPython, R, SQL, Tableau, Power BI, MS Excel, SAS, Dataiku, Azure, PostgreSQL, Apache Spark, AWS, Git/GitHub, ETL workflows, data pipelines, automation, JavaScript, HTML, CSS, Java, C, C++, SAP, CRMs like Salesforce, HubSpot.\nProfessional Strengths\nCommunication, stakeholder presentation, collaboration, strategic thinking, time management, adaptability, attention to detail, initiative, leadership potential, problem-solving, customer-centric mindset.\n\n\nCertifications\n\nFront-End Development (Meta)\nHTML, CSS, JavaScript (Johns Hopkins)\nPython Basics (University of Michigan)\nCS50x Computer Science (HarvardX, Harvard University)\nIntroduction to Psychology (Yale)\n\n\n\nFor a detailed version of my resume with complete information about my experience, projects, and skills, please download the PDF version above or connect with me on LinkedIn."
+  },
+  {
+    "objectID": "cv.html#resume-building-process",
+    "href": "cv.html#resume-building-process",
+    "title": "Curriculum Vitae",
+    "section": "Resume Building Process",
+    "text": "Resume Building Process\nMy resume is designed to highlight my skills and experience in business analytics, data science, and software development. It focuses on quantifiable achievements and technical expertise relevant to roles in these fields.\nI regularly update my resume to reflect new skills, projects, and professional experiences, ensuring it remains current and comprehensive.\nIf you have any questions about my background or would like to discuss potential opportunities, please feel free to contact me."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "My professional journey spans roles in data analysis, software development, and database management, providing me with a diverse skill set and cross-functional expertise."
+  },
+  {
+    "objectID": "experience.html#work-history",
+    "href": "experience.html#work-history",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "My professional journey spans roles in data analysis, software development, and database management, providing me with a diverse skill set and cross-functional expertise."
+  },
+  {
+    "objectID": "experience.html#analyst",
+    "href": "experience.html#analyst",
+    "title": "Professional Experience",
+    "section": "Analyst",
+    "text": "Analyst\n\nMaharaj Multi-Systems\n\nJanuary 2024 - July 2024\n\nAs an Analyst at Maharaj Multi-Systems, I focused on optimizing operational workflows and improving data accuracy across business systems.\nKey Responsibilities: - Conducted in-depth data analysis to identify operational inefficiencies and opportunities for improvement - Maintained and improved CRM systems (Salesforce, HubSpot) to enhance data quality and user experience - Collaborated with cross-functional teams to implement process improvements and optimize resource allocation - Developed and maintained dashboards for monitoring key performance indicators and business metrics - Provided analytical support for decision-making across departments\nKey Achievements: - Boosted workflow efficiency by 15% through operational data analysis and process reengineering - Reduced data processing errors by 25% through implementation of improved validation procedures - Improved CRM accuracy, leading to a 30% increase in client retention - Developed automated reporting solutions that saved team members an average of 5 hours per week - Streamlined operations workflow resulting in 20% reduced processing time for client requests"
+  },
+  {
+    "objectID": "experience.html#software-and-database-management-intern",
+    "href": "experience.html#software-and-database-management-intern",
+    "title": "Professional Experience",
+    "section": "Software and Database Management Intern",
+    "text": "Software and Database Management Intern\n\nPimpri Chinchwad Media Communication\n\nAugust 2022 - August 2023\n\nDuring my internship at Pimpri Chinchwad Media Communication, I gained hands-on experience in software troubleshooting, database management, and technical support.\nKey Responsibilities: - Provided technical support and troubleshooting for internal software systems and applications - Assisted in database management, including data entry, cleaning, and basic query operations - Participated in deployment cycles and software updates under supervision - Supported end-to-end project management for small-scale technical initiatives - Communicated technical information to non-technical users and clients\nKey Achievements: - Reduced resolution times by 20% through implementation of efficient troubleshooting protocols - Assisted in successful deployment of 3 major system upgrades with minimal disruption - Contributed to database optimization that improved query response times by 15% - Increased client retention by 40% through solution-oriented communication and technical support - Developed a knowledge base that reduced recurring support tickets by 25%"
+  },
+  {
+    "objectID": "experience.html#industry-experience",
+    "href": "experience.html#industry-experience",
+    "title": "Professional Experience",
+    "section": "Industry Experience",
+    "text": "Industry Experience\nMy experience spans multiple industries, providing me with varied perspectives and adaptable problem-solving approaches:\n\n\nTechnology\nWorking at technology-focused organizations has given me experience with software development lifecycles, technical project management, and cutting-edge tools. I’ve developed a deep understanding of how technology solutions are built, deployed, and maintained.\n\n\nMedia & Communications\nMy experience in media and communications has enhanced my understanding of content management, audience analytics, and communication strategies. I’ve learned how data can inform content creation and distribution decisions.\n\n\nBusiness Operations\nAcross roles, I’ve gained expertise in business operations, including workflow optimization, resource allocation, and performance tracking. This experience allows me to bridge the gap between technical solutions and business needs."
+  },
+  {
+    "objectID": "experience.html#leadership-teamwork",
+    "href": "experience.html#leadership-teamwork",
+    "title": "Professional Experience",
+    "section": "Leadership & Teamwork",
+    "text": "Leadership & Teamwork\nThroughout my career, I’ve developed strong leadership and teamwork skills:\n\nCross-functional Collaboration: Worked effectively with diverse teams including developers, marketing professionals, and business stakeholders\nProject Coordination: Assisted in coordinating small to medium-sized projects, ensuring alignment with goals and timelines\nMentorship: Provided guidance and support to junior team members, helping them develop technical skills\nCommunication: Translated technical concepts for non-technical audiences, facilitating better understanding and cooperation\nProblem-solving: Led troubleshooting efforts that identified and resolved complex technical issues"
+  },
+  {
+    "objectID": "experience.html#professional-development",
+    "href": "experience.html#professional-development",
+    "title": "Professional Experience",
+    "section": "Professional Development",
+    "text": "Professional Development\nI continually invest in my professional growth through:\n\nIndustry Certifications: Pursuing relevant certifications to enhance my technical and analytical capabilities\nWorkshops & Conferences: Participating in industry events to stay current with emerging trends and technologies\nNetworking: Building relationships with professionals across industries to exchange ideas and best practices\nSelf-directed Learning: Regularly undertaking personal projects to develop new skills and deepen existing ones\n\nMy diverse professional experiences have equipped me with a unique combination of technical expertise, analytical skills, and business acumen that I leverage to drive data-informed decision-making and operational excellence."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page showcases my key academic and personal projects, demonstrating my technical abilities and analytical skills."
+  },
+  {
+    "objectID": "projects.html#academic-projects",
+    "href": "projects.html#academic-projects",
+    "title": "Projects",
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\nNew York Real Estate Analysis\n\nTools & Technologies: R, Time Series Analysis, Regression Modeling, Data Visualization\nDescription:\nLed time series and regression analysis on residential real estate data to identify key sales trends and predictors across different New York neighborhoods.\nKey Contributions: - Analyzed 5+ years of historical property data to identify seasonal patterns and price drivers - Built predictive models with 85% accuracy to forecast future price trends - Created interactive visualizations showing neighborhood-by-neighborhood price evolution - Identified key factors influencing property values, including proximity to public transport and school district ratings\nOutcome:\nThe analysis provided actionable insights for real estate investors and urban planners, highlighting areas with growth potential and revealing the impact of public infrastructure on property values.\n\n\n\nStickley Adhesives Operations Analysis & Process Optimization\n\nTools & Technologies: Excel, Process Mapping, Statistical Analysis, Cost-Benefit Analysis\nDescription:\nAnalyzed business processes for a manufacturing company and proposed workflow improvements in a comprehensive managerial report for Operations Management course.\nKey Contributions: - Conducted time-motion studies to identify bottlenecks in production processes - Developed process flow diagrams to visualize current state and proposed improvements - Performed cost-benefit analysis of implementing recommended changes - Created implementation timeline and change management framework\nOutcome:\nRecommendations projected to reduce production time by 18% and decrease material waste by 12%, with potential annual savings of $125,000 if implemented."
+  },
+  {
+    "objectID": "projects.html#personal-projects",
+    "href": "projects.html#personal-projects",
+    "title": "Projects",
+    "section": "Personal Projects",
+    "text": "Personal Projects\n\nSkincare Sales Data Analysis\n\nTools & Technologies: Python, Pandas, Tableau, SQL\nDescription:\nSelf-initiated project exploring consumer behavior, sales trends, and pricing strategy in the beauty industry, currently working on dashboard deployment.\nKey Contributions: - Collected and cleaned sales data from multiple sources using Python and SQL - Analyzed customer segmentation and purchasing patterns - Identified correlation between pricing strategies and consumer retention - Built interactive Tableau dashboard to visualize findings\nOutcome:\nCreated a comprehensive analysis that provides insights into optimal pricing strategies, seasonal trends, and customer demographics. Currently finalizing an interactive dashboard for publication.\n\n\n\nAI vs Non-AI Job Growth Analysis\n\nTools & Technologies: Python, AWS, Data Visualization, Web Scraping\nDescription:\nStudied employment trends across industries in 2024 and visualized insights in an AWS-deployed dashboard to understand the impact of AI adoption on job markets.\nKey Contributions: - Gathered data from multiple job boards and economic reports through web scraping - Analyzed growth patterns in AI-centric roles versus traditional positions - Developed interactive visualizations showing industry-specific trends - Deployed results as a web application using AWS services\nOutcome:\nThe analysis revealed a 34% increase in AI-related positions while showing varying impacts across different industries. The interactive dashboard allows users to explore trends by industry, role type, and geographic region."
+  },
+  {
+    "objectID": "projects.html#technical-skills-demonstrated",
+    "href": "projects.html#technical-skills-demonstrated",
+    "title": "Projects",
+    "section": "Technical Skills Demonstrated",
+    "text": "Technical Skills Demonstrated\nThese projects showcase my abilities in:\n\nData Analysis: Statistical modeling, regression analysis, time series forecasting\nProgramming: Python, R, SQL\nData Visualization: Tableau, matplotlib, ggplot2\nCloud Services: AWS deployment and configuration\nDomain Knowledge: Real estate, operations management, consumer behavior\nProject Management: End-to-end project planning and execution\n\nI’m constantly working on new projects to expand my skills and explore new areas of analytics. Check back regularly for updates!"
   }
 ]
