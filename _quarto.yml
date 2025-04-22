@@ -4,7 +4,20 @@ project:
 
 website:
   title: "Vidhi A. Sharma"
-  navbar: false
+  navbar:
+    left:
+      - href: "#about-me"
+        text: "About Me"
+      - href: "#education"
+        text: "Education"
+      - href: "#skills"
+        text: "Skills"
+      - href: "#experience"
+        text: "Experience"
+      - href: "#projects"
+        text: "Projects"
+      - href: "#contact"
+        text: "Contact"
 
 format:
   html:

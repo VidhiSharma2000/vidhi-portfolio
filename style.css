@@ -1,0 +1,55 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #fdfaf6;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    color: #4e3e2f;
+  }
+  
+  .navbar {
+    background-color: #f5f0ea;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+  
+  .navbar a.nav-link {
+    color: #4e3e2f !important;
+    font-weight: 500;
+  }
+  
+  .navbar a.nav-link:hover {
+    color: #b28b66 !important;
+  }
+  
+  section {
+    margin-bottom: 4rem;
+  }
+  
+  .card {
+    background-color: #fffdf9;
+    border-top: 5px solid #d6a161;
+    padding: 1.25rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+    margin-bottom: 1rem;
+  }
+  
+  .card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+  
+  .card-grid .card {
+    flex: 1 1 calc(50% - 1.5rem);
+    min-width: 280px;
+  }
+  
+  a {
+    color: #8a5f3d;
+    text-decoration: none;
+  }
+  
