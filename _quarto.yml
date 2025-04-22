@@ -1,12 +1,16 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Vidhi A. Sharma"
   navbar: false
+  page-navigation: true
+  favicon: assets/favicon.ico  # Optional, if you want a custom icon
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
+    smooth-scroll: true
