@@ -7,7 +7,7 @@ title: "Curriculum Vitae"
 This page provides a downloadable version of my resume along with a brief overview of my professional background, skills, and accomplishments.
 
 ::: {.cv-download-btn .text-center}
-[Download Full Resume (PDF)](/resume/resume-vidhi-sharma.pdf){.btn .btn-primary .btn-lg}
+[Download Full Resume (PDF)](resume/resume-vidhi-sharma.pdf){.btn .btn-primary .btn-lg}
 :::
 
 ## Resume Preview
@@ -99,4 +99,4 @@ My resume is designed to highlight my skills and experience in business analytic
 
 I regularly update my resume to reflect new skills, projects, and professional experiences, ensuring it remains current and comprehensive.
 
-If you have any questions about my background or would like to discuss potential opportunities, please feel free to [contact me](/contact.qmd).
+If you have any questions about my background or would like to discuss potential opportunities, please feel free to [contact me](contact.qmd).
