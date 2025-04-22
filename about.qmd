@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+
+## Hello, I’m Vidhi!
+
+I'm a passionate analytics student at Boston University with a love for problem-solving, strategy, and turning data into real-world impact. I’ve worked on everything from automating dashboards at TransUnion to exploring employment trends and consumer behavior in my personal projects.
+
+I'm currently pursuing my MS in Applied Business Analytics and looking for opportunities to create meaningful change through data-driven innovation.

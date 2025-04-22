@@ -1,0 +1,17 @@
+---
+title: "Projects"
+---
+
+## Featured Projects
+
+### 🏘️ New York Real Estate Analysis
+Led time series and regression analysis on residential real estate data to identify sales trends and predict price movements.
+
+### 🧪 Stickley Adhesives Operations Report
+Mapped out operational bottlenecks, proposed process optimizations, and modeled improvement strategies in a detailed management report.
+
+### 💄 Skincare Sales Data Analysis
+Explored consumer behavior, product pricing, and seasonal trends in the beauty industry. Currently building a dashboard to visualize key insights.
+
+### 🤖 AI vs Non-AI Job Growth Analysis
+Compared job trends across industries. Visualized results in an AWS-hosted dashboard showing the AI-driven job boom.

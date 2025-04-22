@@ -1,0 +1,31 @@
+---
+title: "Resume"
+---
+
+You can download my latest resume [here](resume-vidhi-sharma.pdf).
+
+## Education
+
+**Boston University**  
+MS in Applied Business Analytics (2024–2025)
+
+**MIT World Peace University**  
+BS in Computer Science – GPA: 3.83 (2019–2022)
+
+## Skills
+
+- **Analytics**: Statistical modeling, forecasting, visualization, KPIs
+- **Tools**: Python, R, SQL, Tableau, Power BI, Excel, AWS, Spark
+- **Soft Skills**: Communication, strategy, problem-solving, leadership
+
+## Experience
+
+**Maharaj Multi-Systems** – Analyst  
+Boosted efficiency by 15%, reduced errors by 25%, and increased CRM-driven client retention by 30%.
+
+**Pimpri Chinchwad Media** – Intern  
+Cut support resolution time by 20%. Managed databases and led deployment cycles.
+
+## Certifications
+
+Front-End (Meta), HTML/CSS/JS (Johns Hopkins), Python (UMich), CS50x (HarvardX), Psychology (Yale)

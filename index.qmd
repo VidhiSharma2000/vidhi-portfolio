@@ -1,0 +1,157 @@
+---
+title: "Vidhi A. Sharma"
+format: html
+---
+
+<style>
+body {
+  font-family: 'Inter', sans-serif;
+}
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+  margin-top: 2rem;
+}
+.section {
+  margin-bottom: 3rem;
+}
+.skill-block, .project, .exp, .volunteer {
+  border-top: 5px solid #cfa987;
+  background: #fffaf5;
+  padding: 1rem;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+</style>
+
+# About Me
+
+Hi, I'm **Vidhi Sharma**, currently pursuing my Master’s in Applied Business Analytics at Boston University. With a background in Computer Science and hands-on experience in analytics, operations, and business strategy, I specialize in turning messy data into crystal-clear action.
+
+I’ve worked across a range of industries and tools, from streamlining backend workflows to building dashboards for non-technical decision-makers. My superpower is blending logic with creative clarity — turning technical insights into strategic action.
+
+---
+
+# How I Help Companies
+
+I turn scattered data into smart, scalable solutions — whether it’s predictive models, ETL pipelines, or dashboards. I build tools that help not only analysts but also marketers, operations managers, and executives make smarter decisions faster.
+
+I’m here to help you find answers faster and run smarter.
+
+---
+
+# Education
+
+**Boston University** – M.S. in Applied Business Analytics (2024–ongoing)  
+Interdisciplinary program blending data science, business strategy, and technology. Focus areas include machine learning at scale, predictive analytics, digital marketing, and web analytics. Hands-on experience with Spark, AWS, and Tableau, along with frameworks in operations management, capacity planning, and business optimization.
+
+**MIT World Peace University** – B.Sc. in Computer Science (2019–2022, GPA: 3.83/4.0)  
+Built a strong foundation in programming, data structures, software engineering, and database systems. Curriculum included systems design, lean operations, and applied mathematics, combining technical rigor with real-world application.
+
+---
+
+# Skills
+
+## Programming, Analytics & Data Science
+<div class="skill-block">
+Proficient in Python, R, SQL, Java, C++, and Shell Scripting. Skilled in OOP, algorithms, time series, segmentation, clustering, A/B testing. Libraries: pandas, scikit-learn, statsmodels, ggplot2, caret.
+</div>
+
+## Data Visualization, BI & Automation
+<div class="skill-block">
+Power BI, Tableau, Excel, SAS. Dashboard design, user-centered storytelling, filters, DAX. Automated ETL and reporting using Python. Familiar with Dataiku for low-code ML.
+</div>
+
+## Databases, Cloud & DevOps
+<div class="skill-block">
+Worked with PostgreSQL, MySQL, BigQuery, Spark SQL. Deployed solutions on AWS (S3, EC2, SageMaker), Azure. Built ETL pipelines, familiar with Airflow. Strong Git/GitHub skills.
+</div>
+
+## Web and Full-Stack Development
+<div class="skill-block">
+HTML, CSS, JavaScript, GitHub Pages. Projects built with Quarto, Markdown, YAML, JSON. Familiar with frontend architecture and web delivery for data storytelling.
+</div>
+
+## Soft Skills & Strengths
+<div class="skill-block">
+Excellent communicator (written, visual, verbal). Detail-oriented, adaptable, structured problem solver. Team collaborator who thrives independently. Stakeholder-facing and results-driven.
+</div>
+
+---
+
+# Experience
+
+### Maharaj Multi-Systems – Business and Data Analyst (Jan 2024 – Jul 2024)
+<div class="exp">
+• Improved operational efficiency by 15% via automation and CRM audits  
+• Reduced data processing errors by 25%, increasing client retention by 30%  
+• Optimized resource utilization across departments with cross-functional teams  
+</div>
+
+### Pimpri Chinchwad Media Communication – Software & DB Intern (Aug 2022 – Aug 2023)
+<div class="exp">
+• Reduced resolution time by 20% via technical debugging and support  
+• Contributed to full-cycle deployment of electronics + DB systems  
+• Strengthened client retention by 40% via responsive service  
+</div>
+
+---
+
+# Projects
+
+### New York Real Estate Analysis
+<div class="project">
+**Problem:** The NYC housing market is notoriously complex, and understanding price drivers is critical for buyers, sellers, and investors.  
+**What I Did:** I led a detailed time series and regression-based analysis on historical sales data to identify key pricing predictors like location, square footage, and listing duration. I also explored seasonal demand trends and outlier behavior in luxury segments for an academic project.  
+**Expanded Insight:** This project helped visualize how even small variations in square footage or neighborhood can drastically affect price bands. I also experimented with model tuning to improve prediction accuracy and detect over/underpriced listings.
+</div>
+
+### Skincare Sales Data Analysis
+<div class="project">
+**Problem:** A retail beauty brand wanted to understand how pricing, promotion, and seasonality affected product sales across categories.  
+**What I Did:** I initiated this project independently to explore real-world sales behavior. I cleaned and analyzed transactional data to evaluate discount sensitivity, product bundling impact, and brand loyalty. Currently working on a dashboard to visualize the findings.  
+**Expanded Insight:** I used visual exploration and statistical summaries to identify demand spikes during promotional windows and detect high-performing bundles. Insights are being translated into visual dashboards to support sales and product teams.
+</div>
+
+### Stickley Adhesives Operations Optimization
+<div class="project">
+**Problem:** A simulated manufacturing company was facing high material waste and long production cycles.  
+**What I Did:** I conducted process mapping and bottleneck analysis using tools from Lean methodology. I identified inefficiencies in material handling and production flow. I simulated new workflows that included better scheduling and resource allocation for an academic project.  
+**Expanded Insight:** Proposed actionable changes that could reduce material waste by ~10% and lead times by 12%. Developed a report highlighting the ROI of each proposed improvement, focusing on cost-effective operational change and implementation feasibility.
+</div>
+
+### AI vs Non-AI Job Growth Dashboard
+<div class="project">
+**Problem:** Companies and job seekers are struggling to understand how AI is reshaping the labor market.  
+**What I Did:** I scraped and analyzed job posting data across multiple industries to compare demand, salary trends, and skill requirements for AI-related roles vs traditional ones as a part of an academic project.  
+**Expanded Insight:** Currently developing a dashboard hosted on AWS that visualizes the rise of AI jobs by sector, average pay differences, and essential skill sets. This tool is designed to help HR professionals and students plan their hiring and learning strategies more effectively.
+</div>
+
+---
+
+# Volunteering & Impact
+
+### Youth Empowerment Foundation
+<div class="volunteer">
+Mentored underserved students and helped run workshops and educational drives.
+</div>
+
+### Help Social Welfare Society
+<div class="volunteer">
+Contributed to food, medical, and eldercare logistics for marginalized communities.
+</div>
+
+### Sahaas for Animals
+<div class="volunteer">
+Supported local shelter operations, cleanups, and online fundraising.
+</div>
+
+---
+
+
+# Contact
+
+Location: Boston, MA  
+Email: [sharmavidhi3008@gmail.com](mailto:sharmavidhi3008@gmail.com)  
+LinkedIn: [linkedin.com/in/vidhi-sharma](https://linkedin.com/in/vidhi-sharma)  
+GitHub: [github.com/VidhiSharma2000](https://github.com/VidhiSharma2000)
