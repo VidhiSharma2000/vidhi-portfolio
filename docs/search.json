@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Led time series and regression analysis on residential real estate data to identify sales trends and predict price movements.\n\n\n\nMapped out operational bottlenecks, proposed process optimizations, and modeled improvement strategies in a detailed management report.\n\n\n\nExplored consumer behavior, product pricing, and seasonal trends in the beauty industry. Currently building a dashboard to visualize key insights.\n\n\n\nCompared job trends across industries. Visualized results in an AWS-hosted dashboard showing the AI-driven job boom."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Led time series and regression analysis on residential real estate data to identify sales trends and predict price movements.\n\n\n\nMapped out operational bottlenecks, proposed process optimizations, and modeled improvement strategies in a detailed management report.\n\n\n\nExplored consumer behavior, product pricing, and seasonal trends in the beauty industry. Currently building a dashboard to visualize key insights.\n\n\n\nCompared job trends across industries. Visualized results in an AWS-hosted dashboard showing the AI-driven job boom."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can download my latest resume here."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nBoston University\nMS in Applied Business Analytics (2024–2025)\nMIT World Peace University\nBS in Computer Science – GPA: 3.83 (2019–2022)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\nAnalytics: Statistical modeling, forecasting, visualization, KPIs\nTools: Python, R, SQL, Tableau, Power BI, Excel, AWS, Spark\nSoft Skills: Communication, strategy, problem-solving, leadership"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\nMaharaj Multi-Systems – Analyst\nBoosted efficiency by 15%, reduced errors by 25%, and increased CRM-driven client retention by 30%.\nPimpri Chinchwad Media – Intern\nCut support resolution time by 20%. Managed databases and led deployment cycles."
+  },
+  {
+    "objectID": "cv.html#certifications",
+    "href": "cv.html#certifications",
+    "title": "Resume",
+    "section": "Certifications",
+    "text": "Certifications\nFront-End (Meta), HTML/CSS/JS (Johns Hopkins), Python (UMich), CS50x (HarvardX), Psychology (Yale)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a passionate analytics student at Boston University with a love for problem-solving, strategy, and turning data into real-world impact. I’ve worked on everything from automating dashboards at TransUnion to exploring employment trends and consumer behavior in my personal projects.\nI’m currently pursuing my MS in Applied Business Analytics and looking for opportunities to create meaningful change through data-driven innovation."
+  },
+  {
+    "objectID": "about.html#hello-im-vidhi",
+    "href": "about.html#hello-im-vidhi",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a passionate analytics student at Boston University with a love for problem-solving, strategy, and turning data into real-world impact. I’ve worked on everything from automating dashboards at TransUnion to exploring employment trends and consumer behavior in my personal projects.\nI’m currently pursuing my MS in Applied Business Analytics and looking for opportunities to create meaningful change through data-driven innovation."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out through the platforms below:\n\n📧 Email: sharmavidhi3008@gmail.com\n\n🌐 LinkedIn: linkedin.com/in/vidhi-sharma\n\n💻 GitHub: github.com/VidhiSharma2000"
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out through the platforms below:\n\n📧 Email: sharmavidhi3008@gmail.com\n\n🌐 LinkedIn: linkedin.com/in/vidhi-sharma\n\n💻 GitHub: github.com/VidhiSharma2000"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vidhi A. Sharma",
+    "section": "",
+    "text": "Hi, I’m Vidhi Sharma, currently pursuing my Master’s in Applied Business Analytics at Boston University. With a background in Computer Science and hands-on experience in analytics, operations, and business strategy, I specialize in turning messy data into crystal-clear action.\nI’ve worked across a range of industries and tools, from streamlining backend workflows to building dashboards for non-technical decision-makers. My superpower is blending logic with creative clarity — turning technical insights into strategic action."
+  },
+  {
+    "objectID": "index.html#programming-analytics-data-science",
+    "href": "index.html#programming-analytics-data-science",
+    "title": "Vidhi A. Sharma",
+    "section": "Programming, Analytics & Data Science",
+    "text": "Programming, Analytics & Data Science\n\nProficient in Python, R, SQL, Java, C++, and Shell Scripting. Skilled in OOP, algorithms, time series, segmentation, clustering, A/B testing. Libraries: pandas, scikit-learn, statsmodels, ggplot2, caret."
+  },
+  {
+    "objectID": "index.html#data-visualization-bi-automation",
+    "href": "index.html#data-visualization-bi-automation",
+    "title": "Vidhi A. Sharma",
+    "section": "Data Visualization, BI & Automation",
+    "text": "Data Visualization, BI & Automation\n\nPower BI, Tableau, Excel, SAS. Dashboard design, user-centered storytelling, filters, DAX. Automated ETL and reporting using Python. Familiar with Dataiku for low-code ML."
+  },
+  {
+    "objectID": "index.html#databases-cloud-devops",
+    "href": "index.html#databases-cloud-devops",
+    "title": "Vidhi A. Sharma",
+    "section": "Databases, Cloud & DevOps",
+    "text": "Databases, Cloud & DevOps\n\nWorked with PostgreSQL, MySQL, BigQuery, Spark SQL. Deployed solutions on AWS (S3, EC2, SageMaker), Azure. Built ETL pipelines, familiar with Airflow. Strong Git/GitHub skills."
+  },
+  {
+    "objectID": "index.html#web-and-full-stack-development",
+    "href": "index.html#web-and-full-stack-development",
+    "title": "Vidhi A. Sharma",
+    "section": "Web and Full-Stack Development",
+    "text": "Web and Full-Stack Development\n\nHTML, CSS, JavaScript, GitHub Pages. Projects built with Quarto, Markdown, YAML, JSON. Familiar with frontend architecture and web delivery for data storytelling."
+  },
+  {
+    "objectID": "index.html#soft-skills-strengths",
+    "href": "index.html#soft-skills-strengths",
+    "title": "Vidhi A. Sharma",
+    "section": "Soft Skills & Strengths",
+    "text": "Soft Skills & Strengths\n\nExcellent communicator (written, visual, verbal). Detail-oriented, adaptable, structured problem solver. Team collaborator who thrives independently. Stakeholder-facing and results-driven."
+  }
+]
