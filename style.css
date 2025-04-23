@@ -1,15 +1,19 @@
-/* Custom CSS for Vidhi's Portfolio Website */
+/* Custom CSS for Vidhi's Portfolio Website with Enhanced Colors */
 
 /* Variables */
 :root {
-  --primary-color: #4e89ae;
-  --secondary-color: #43658b;
-  --accent-color: #ed6663;
-  --light-gray: #f5f5f5;
-  --dark-gray: #333333;
-  --text-color: #2d2d2d;
+  --primary-color: #4b6cb7; /* Rich blue */
+  --secondary-color: #5e81ac; /* Nordic blue */
+  --accent-color-1: #88c0d0; /* Light blue */
+  --accent-color-2: #6b8e23; /* Olive green */
+  --accent-color-3: #b48ead; /* Soft purple */
+  --light-bg: #f5f7fa;
+  --dark-gray: #3b4252;
+  --text-color: #4c566a; /* Charcoal grey for text */
   --heading-font: 'Montserrat', sans-serif;
   --body-font: 'Open Sans', sans-serif;
+  --card-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  --card-hover-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
 
 /* Font imports */
@@ -20,6 +24,7 @@ body {
   font-family: var(--body-font);
   color: var(--text-color);
   line-height: 1.6;
+  background-color: #fff;
 }
 
 /* Left alignment for all content */
@@ -45,6 +50,7 @@ body {
   text-align: left;
   max-width: 100%;
   margin-left: 0;
+  color: var(--text-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -57,14 +63,17 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2.5rem;
   margin-bottom: 1.5rem;
-  color: var(--secondary-color);
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--accent-color-1);
+  padding-bottom: 0.5rem;
 }
 
 h2 {
   font-size: 2rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  border-bottom: 2px solid var(--primary-color);
+  color: var(--secondary-color);
+  border-bottom: 2px solid var(--accent-color-1);
   padding-bottom: 0.5rem;
 }
 
@@ -81,37 +90,82 @@ a {
 }
 
 a:hover {
-  color: var(--accent-color);
+  color: var(--accent-color-1);
   text-decoration: underline;
 }
 
 /* Navbar customization */
 .navbar {
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
 }
 
 .navbar-brand {
   font-weight: 700;
   font-size: 1.5rem;
+  color: white !important;
 }
 
-/* Custom card styling */
+.navbar .nav-link {
+  color: rgba(255, 255, 255, 0.9) !important;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+  color: white !important;
+  transform: translateY(-2px);
+}
+
+/* Custom card styling with color accents */
 .card {
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--card-shadow);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   margin-bottom: 1.5rem;
+  border: none;
+  border-top: 4px solid var(--primary-color);
+}
+
+/* Alternate card border colors */
+.card:nth-of-type(3n+1) {
+  border-top-color: var(--primary-color);
+}
+
+.card:nth-of-type(3n+2) {
+  border-top-color: var(--accent-color-2);
+}
+
+.card:nth-of-type(3n+3) {
+  border-top-color: var(--accent-color-3);
 }
 
 .card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--card-hover-shadow);
 }
 
 .card-title {
   color: var(--primary-color);
   font-weight: 600;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+/* Skills cards with color coding */
+.g-col-md-4:nth-child(1) .card {
+  border-top-color: var(--primary-color);
+}
+
+.g-col-md-4:nth-child(2) .card {
+  border-top-color: var(--accent-color-2);
+}
+
+.g-col-md-4:nth-child(3) .card {
+  border-top-color: var(--accent-color-3);
 }
 
 /* Custom list styling */
@@ -130,7 +184,7 @@ ul.feature-list li::before {
   content: "▹";
   position: absolute;
   left: 0;
-  color: var(--accent-color);
+  color: var(--accent-color-1);
 }
 
 /* Skills section */
@@ -140,14 +194,14 @@ ul.feature-list li::before {
 
 .skill-bar {
   height: 10px;
-  background-color: var(--light-gray);
+  background-color: var(--light-bg);
   border-radius: 5px;
   margin-bottom: 1.5rem;
 }
 
 .skill-progress {
   height: 100%;
-  background-color: var(--primary-color);
+  background: linear-gradient(to right, var(--primary-color), var(--accent-color-1));
   border-radius: 5px;
 }
 
@@ -161,7 +215,7 @@ ul.feature-list li::before {
   object-fit: cover;
 }
 
-/* Experience timeline */
+/* Experience timeline with color accents */
 .timeline {
   position: relative;
   padding-left: 2rem;
@@ -174,7 +228,7 @@ ul.feature-list li::before {
   top: 0;
   width: 2px;
   height: 100%;
-  background-color: var(--primary-color);
+  background: linear-gradient(to bottom, var(--primary-color), var(--accent-color-1));
 }
 
 .timeline-item {
@@ -190,7 +244,16 @@ ul.feature-list li::before {
   width: 16px;
   height: 16px;
   border-radius: 50%;
-  background-color: var(--accent-color);
+  background-color: var(--accent-color-1);
+  border: 3px solid var(--primary-color);
+}
+
+.timeline-item:nth-child(odd)::before {
+  background-color: var(--accent-color-2);
+}
+
+.timeline-item:nth-child(even)::before {
+  background-color: var(--accent-color-3);
 }
 
 .timeline-date {
@@ -199,9 +262,42 @@ ul.feature-list li::before {
   margin-bottom: 0.5rem;
 }
 
+/* Enhance buttons */
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  border-radius: 4px;
+  padding: 0.6rem 1.5rem;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.btn-primary:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-outline-primary {
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+  border-radius: 4px;
+  padding: 0.6rem 1.5rem;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--primary-color);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
 /* Contact form */
 .contact-form .form-control {
-  border-radius: 0;
+  border-radius: 4px;
   border: 1px solid #ddd;
   padding: 0.8rem;
 }
@@ -211,23 +307,19 @@ ul.feature-list li::before {
   border-color: var(--primary-color);
 }
 
-.contact-form .btn-primary {
-  background-color: var(--primary-color);
-  border-color: var(--primary-color);
-  border-radius: 0;
-  padding: 0.6rem 2rem;
-  transition: all 0.3s ease;
-}
-
-.contact-form .btn-primary:hover {
-  background-color: var(--secondary-color);
-  border-color: var(--secondary-color);
-}
-
 /* Footer customization */
 footer {
   padding: 2rem 0;
-  background-color: var(--light-gray);
+  background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+  color: white;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: var(--accent-color-1);
 }
 
 /* CV page styling */
@@ -236,13 +328,25 @@ footer {
   margin: 0 auto;
   padding: 2rem;
   background-color: white;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--card-shadow);
   text-align: left;
+  border-top: 4px solid var(--primary-color);
+  border-radius: 8px;
 }
 
 .cv-section {
   margin-bottom: 2rem;
   text-align: left;
+  padding-left: 1rem;
+  border-left: 3px solid var(--accent-color-1);
+}
+
+.cv-section:nth-child(odd) {
+  border-left-color: var(--accent-color-2);
+}
+
+.cv-section:nth-child(even) {
+  border-left-color: var(--accent-color-3);
 }
 
 .cv-download-btn {
@@ -259,6 +363,22 @@ footer {
 .text-center,
 .footer {
   text-align: center;
+}
+
+/* Special section for data analytics, database and technical skills */
+.data-analytics-section {
+  border-left: 5px solid var(--primary-color);
+  padding-left: 1rem;
+}
+
+.database-section {
+  border-left: 5px solid var(--accent-color-2);
+  padding-left: 1rem;
+}
+
+.technical-section {
+  border-left: 5px solid var(--accent-color-3);
+  padding-left: 1rem;
 }
 
 /* Responsive adjustments */
