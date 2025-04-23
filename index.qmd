@@ -4,13 +4,6 @@ subtitle: "Business Analytics Student and Professional"
 page-layout: full
 ---
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-4}
-![](images/profile.jpg){fig-alt="Profile photo of Vidhi Sharma" width="80%" style="border-radius: 50%;"}
-:::
-
-::: {.g-col-12 .g-col-md-8}
 # Hello, I'm Vidhi
 
 I'm a passionate analytics professional pursuing a Master of Science in Applied Business Analytics at Boston University. With a background in Computer Science and experience as a Business Analyst, I bridge technology and analytics to solve complex business challenges.
@@ -20,9 +13,6 @@ My expertise spans data analysis, statistical modeling, and business intelligenc
 This portfolio showcases my academic projects, professional experience, and technical expertise. Explore to learn more about how I leverage data to drive insights and decision-making.
 
 [View My Projects](projects.qmd){.btn .btn-primary .mr-2} [Download CV](resume/resume-vidhi-sharma.pdf){.btn .btn-outline-primary}
-:::
-
-:::
 
 ## Featured Skills
 

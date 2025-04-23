@@ -100,23 +100,3 @@ This certification provided an understanding of human behavior and cognitive pro
 :::
 
 :::
-
-## Continuing Education
-
-I believe in lifelong learning and regularly participate in workshops, webinars, and online courses to stay current with emerging technologies and analytical methods. Some recent learning initiatives include:
-
-- **AI in Action Workshop Series** (September 2024)
-- **Advanced Data Visualization with Tableau** (July 2024)
-- **AWS Cloud Practitioner Essentials** (May 2024)
-- **SQL for Data Science** (March 2024)
-
-## Academic Achievements
-
-Throughout my academic career, I've been recognized for excellence in various areas:
-
-- Monash Data Futures Institute PhD Top-Up Scholarship (2021-2024)
-- Dean's List, MIT World Peace University (2020-2022)
-- Outstanding Undergraduate Research Award (2021)
-- Top Performer in Data Structures and Algorithms (2020)
-
-My education has provided me with both theoretical knowledge and practical skills that I apply daily in my professional work and personal projects.

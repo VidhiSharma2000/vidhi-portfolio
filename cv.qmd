@@ -92,11 +92,3 @@ Communication, stakeholder presentation, collaboration, strategic thinking, time
 :::
 
 For a detailed version of my resume with complete information about my experience, projects, and skills, please download the PDF version above or connect with me on [LinkedIn](https://in.linkedin.com/in/17vidhisharma).
-
-## Resume Building Process
-
-My resume is designed to highlight my skills and experience in business analytics, data science, and software development. It focuses on quantifiable achievements and technical expertise relevant to roles in these fields.
-
-I regularly update my resume to reflect new skills, projects, and professional experiences, ensuring it remains current and comprehensive.
-
-If you have any questions about my background or would like to discuss potential opportunities, please feel free to [contact me](contact.qmd).
