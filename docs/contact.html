@@ -159,7 +159,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#contact-information" id="toc-contact-information" class="nav-link" data-scroll-target="#contact-information">Contact Information</a></li>
   <li><a href="#professional-profiles" id="toc-professional-profiles" class="nav-link" data-scroll-target="#professional-profiles">Professional Profiles</a></li>
   </ul></li>
-  <li><a href="#contact-form" id="toc-contact-form" class="nav-link" data-scroll-target="#contact-form">Contact Form</a></li>
   <li><a href="#location" id="toc-location" class="nav-link" data-scroll-target="#location">Location</a></li>
   <li><a href="#availability" id="toc-availability" class="nav-link" data-scroll-target="#availability">Availability</a></li>
   </ul>
@@ -245,53 +244,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </section>
 </section>
-<section id="contact-form" class="level2">
-<h2 class="anchored" data-anchor-id="contact-form">Contact Form</h2>
-<p>Have a specific question or inquiry? Fill out the form below, and I’ll get back to you as soon as possible.</p>
-<form class="contact-form">
-<div class="mb-3">
-<pre><code>&lt;label for="name" class="form-label"&gt;Name&lt;/label&gt;
-&lt;input type="text" class="form-control" id="name" placeholder="Your Name"&gt;</code></pre>
-</div>
-<div class="mb-3">
-<pre><code>&lt;label for="email" class="form-label"&gt;Email&lt;/label&gt;
-&lt;input type="email" class="form-control" id="email" placeholder="your.email@example.com"&gt;</code></pre>
-</div>
-<div class="mb-3">
-<pre><code>&lt;label for="subject" class="form-label"&gt;Subject&lt;/label&gt;
-&lt;input type="text" class="form-control" id="subject" placeholder="What is this regarding?"&gt;</code></pre>
-</div>
-<div class="mb-3">
-<pre><code>&lt;label for="message" class="form-label"&gt;Message&lt;/label&gt;
-&lt;textarea class="form-control" id="message" rows="5" placeholder="Your message here..."&gt;&lt;/textarea&gt;</code></pre>
-</div>
-<button type="submit" class="btn btn-primary">
-Send Message
-</button>
-</form>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const form = document.querySelector('.contact-form');
-  
-  form.addEventListener('submit', function(e) {
-    e.preventDefault();
-    alert('Thank you for your message! This is a demo form - in a real implementation, this would send your message to Vidhi Sharma.');
-    form.reset();
-  });
-});
-</script>
-</section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <p>Currently based in Boston, Massachusetts, I’m open to remote opportunities as well as positions in the Greater Boston area.</p>
-<div class="card mb-4">
-<div class="card-body">
-<pre><code>&lt;h3 class="card-title"&gt;Boston, MA&lt;/h3&gt;
-&lt;p class="card-text"&gt;
-  Boston is a hub for education, technology, and innovation, home to numerous universities and tech companies. It's an exciting place to be for someone in the fields of data analytics and technology.
-&lt;/p&gt;</code></pre>
-</div>
-</div>
 </section>
 <section id="availability" class="level2">
 <h2 class="anchored" data-anchor-id="availability">Availability</h2>

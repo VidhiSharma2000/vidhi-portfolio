@@ -98,18 +98,11 @@
     "text": "I’m always open to discussing new opportunities, collaborations, or simply connecting with fellow professionals in data analytics and technology. Feel free to reach out through any of the methods below.\n\n\n\n\n\nsharmavidhi3008@gmail.com\nEmail is the best way to reach me for professional inquiries, job opportunities, or detailed questions about my work and experience.\n\n\n\n+1 (857) 867-6963\nAvailable for calls and text messages during business hours (Eastern Time). Please email first for scheduling calls when possible.\n\n\n\n\n\nConnect with me on professional platforms to see more of my work and stay updated on my latest projects:\n\n\n\n\n\n\nLinkedIn\n\n\nConnect with me on LinkedIn for professional networking, updates on my career, and industry insights.\nView Profile\n\n\n\n\n\n\nGitHub\n\n\nExplore my code repositories, personal projects, and contributions to open-source initiatives.\nView Profile\n\n\n\n\n\n\nPortfolio\n\n\nVisit my portfolio website to see detailed case studies of my projects and professional experience.\nBrowse Portfolio"
   },
   {
-    "objectID": "contact.html#contact-form",
-    "href": "contact.html#contact-form",
-    "title": "Contact",
-    "section": "Contact Form",
-    "text": "Contact Form\nHave a specific question or inquiry? Fill out the form below, and I’ll get back to you as soon as possible.\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Your Name\"&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"your.email@example.com\"&gt;\n\n\n&lt;label for=\"subject\" class=\"form-label\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"subject\" placeholder=\"What is this regarding?\"&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" rows=\"5\" placeholder=\"Your message here...\"&gt;&lt;/textarea&gt;\n\n\nSend Message"
-  },
-  {
     "objectID": "contact.html#location",
     "href": "contact.html#location",
     "title": "Contact",
     "section": "Location",
-    "text": "Location\nCurrently based in Boston, Massachusetts, I’m open to remote opportunities as well as positions in the Greater Boston area.\n\n\n&lt;h3 class=\"card-title\"&gt;Boston, MA&lt;/h3&gt;\n&lt;p class=\"card-text\"&gt;\n  Boston is a hub for education, technology, and innovation, home to numerous universities and tech companies. It's an exciting place to be for someone in the fields of data analytics and technology.\n&lt;/p&gt;"
+    "text": "Location\nCurrently based in Boston, Massachusetts, I’m open to remote opportunities as well as positions in the Greater Boston area."
   },
   {
     "objectID": "contact.html#availability",

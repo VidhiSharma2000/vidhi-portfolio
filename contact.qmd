@@ -61,58 +61,9 @@ Visit my portfolio website to see detailed case studies of my projects and profe
 
 :::
 
-## Contact Form
-
-Have a specific question or inquiry? Fill out the form below, and I'll get back to you as soon as possible.
-
-<form class="contact-form">
-  <div class="mb-3">
-    <label for="name" class="form-label">Name</label>
-    <input type="text" class="form-control" id="name" placeholder="Your Name">
-  </div>
-  
-  <div class="mb-3">
-    <label for="email" class="form-label">Email</label>
-    <input type="email" class="form-control" id="email" placeholder="your.email@example.com">
-  </div>
-  
-  <div class="mb-3">
-    <label for="subject" class="form-label">Subject</label>
-    <input type="text" class="form-control" id="subject" placeholder="What is this regarding?">
-  </div>
-  
-  <div class="mb-3">
-    <label for="message" class="form-label">Message</label>
-    <textarea class="form-control" id="message" rows="5" placeholder="Your message here..."></textarea>
-  </div>
-  
-  <button type="submit" class="btn btn-primary">Send Message</button>
-</form>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const form = document.querySelector('.contact-form');
-  
-  form.addEventListener('submit', function(e) {
-    e.preventDefault();
-    alert('Thank you for your message! This is a demo form - in a real implementation, this would send your message to Vidhi Sharma.');
-    form.reset();
-  });
-});
-</script>
-
 ## Location
 
 Currently based in Boston, Massachusetts, I'm open to remote opportunities as well as positions in the Greater Boston area.
-
-<div class="card mb-4">
-  <div class="card-body">
-    <h3 class="card-title">Boston, MA</h3>
-    <p class="card-text">
-      Boston is a hub for education, technology, and innovation, home to numerous universities and tech companies. It's an exciting place to be for someone in the fields of data analytics and technology.
-    </p>
-  </div>
-</div>
 
 ## Availability
 
