@@ -18,7 +18,7 @@ This portfolio showcases my academic projects, professional experience, and tech
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4 .card}
+::: {.g-col-12 .g-col-md-4 .card .data-analytics-section}
 ### Data Analytics
 - Statistical modeling
 - Predictive analytics
@@ -27,7 +27,7 @@ This portfolio showcases my academic projects, professional experience, and tech
 - Data visualization
 :::
 
-::: {.g-col-12 .g-col-md-4 .card}
+::: {.g-col-12 .g-col-md-4 .card .database-section}
 ### Database & Process Management
 - SQL & NoSQL Databases
 - ETL workflows
@@ -36,7 +36,7 @@ This portfolio showcases my academic projects, professional experience, and tech
 - Workflow efficiency
 :::
 
-::: {.g-col-12 .g-col-md-4 .card}
+::: {.g-col-12 .g-col-md-4 .card .technical-section}
 ### Technical Development
 - Python, R programming
 - Tableau, Power BI
