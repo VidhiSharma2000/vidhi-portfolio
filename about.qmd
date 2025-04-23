@@ -12,17 +12,17 @@ My journey in data started during my undergraduate studies, where I discovered t
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3 .data-analytics-section}
 ### Data-Driven Decision Making
 I help organizations translate complex data into actionable insights, enabling informed decision-making at all levels of the business. By identifying patterns and trends, I provide the foundation for strategic planning and operational improvements.
 :::
 
-::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3 .database-section}
 ### Process Optimization
 I analyze business processes to identify inefficiencies and bottlenecks, then develop and implement data-driven solutions to streamline operations. This leads to improved workflow efficiency, reduced costs, and enhanced productivity.
 :::
 
-::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3}
+::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3 .technical-section}
 ### Technology Integration
 I bridge the gap between business needs and technical solutions, implementing analytics tools and technologies that align with organizational goals. My technical background allows me to communicate effectively with both business stakeholders and technical teams.
 :::
@@ -35,7 +35,7 @@ I believe that effective analytics is not just about technical skills but also a
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-12 .g-col-md-6 .card .p-3 .mb-3}
 ### Data-Driven Methodology
 - Begin with clearly defined business questions
 - Collect and clean relevant data
@@ -44,7 +44,7 @@ I believe that effective analytics is not just about technical skills but also a
 - Translate results into business recommendations
 :::
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-12 .g-col-md-6 .card .p-3 .mb-3}
 ### Collaborative Mindset
 - Partner with stakeholders to understand needs
 - Communicate complex findings in accessible terms
@@ -55,4 +55,4 @@ I believe that effective analytics is not just about technical skills but also a
 
 :::
 
-Feel free to [contact me](/contact.qmd) if you'd like to discuss potential collaborations, job opportunities, or just connect to share ideas about data analytics!
+Feel free to [contact me](/contact.qmd){.btn .btn-primary .mt-3} if you'd like to discuss potential collaborations, job opportunities, or just connect to share ideas about data analytics!
