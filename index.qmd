@@ -6,7 +6,7 @@ page-layout: full
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4 .text-center}
+::: {.g-col-12 .g-col-md-4}
 ![](images/profile.jpg){fig-alt="Profile photo of Vidhi Sharma" width="80%" style="border-radius: 50%;"}
 :::
 
@@ -19,7 +19,7 @@ My expertise spans data analysis, statistical modeling, and business intelligenc
 
 This portfolio showcases my academic projects, professional experience, and technical expertise. Explore to learn more about how I leverage data to drive insights and decision-making.
 
-[View My Projects](/projects.qmd){.btn .btn-primary .mr-2} [Download CV](/resume/resume-vidhi-sharma.pdf){.btn .btn-outline-primary}
+[View My Projects](projects.qmd){.btn .btn-primary .mr-2} [Download CV](resume/resume-vidhi-sharma.pdf){.btn .btn-outline-primary}
 :::
 
 :::
@@ -67,7 +67,7 @@ This portfolio showcases my academic projects, professional experience, and tech
 ### New York Real Estate Analysis
 Led time series and regression analysis on residential real estate data to identify key sales trends and predictors.
 
-[Learn More](/projects.qmd#real-estate){.btn .btn-sm .btn-primary}
+[Learn More](projects.qmd#real-estate){.btn .btn-sm .btn-primary}
 :::
 
 ::: {.g-col-12 .g-col-md-6 .card .project-card}
@@ -76,7 +76,7 @@ Led time series and regression analysis on residential real estate data to ident
 ### AI vs Non-AI Job Growth Analysis
 Studied employment trends across industries in 2024 and visualized insights in an AWS-deployed dashboard.
 
-[Learn More](/projects.qmd#job-growth){.btn .btn-sm .btn-primary}
+[Learn More](projects.qmd#job-growth){.btn .btn-sm .btn-primary}
 :::
 
 :::
@@ -105,4 +105,4 @@ Reduced resolution times by 20% through efficient troubleshooting and system dia
 
 :::
 
-[View Full Experience](/experience.qmd){.btn .btn-outline-primary .mt-3}
+[View Full Experience](experience.qmd){.btn .btn-outline-primary .mt-3}
