@@ -2,57 +2,95 @@
 title: "About Me"
 ---
 
+::: {.about-section .fade-in}
 ## Professional Profile
 
 Hello! I'm Vidhi, a passionate analytics student currently pursuing my Master of Science in Applied Business Analytics at Boston University. With a background in Computer Science and professional experience as a Business Analyst, I'm developing advanced skills to tackle complex problems through technology and analytics.
 
 My journey in data started during my undergraduate studies, where I discovered the power of transforming raw data into meaningful insights. Since then, I've been on a mission to leverage data-driven approaches to solve real-world challenges and enable better business decisions.
+:::
 
 ## How I Help Organizations
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3 .data-analytics-section}
+::: {.container}
+::: {.row}
+::: {.col-md-4 .mb-4}
+::: {.card .h-100 .data-analytics-card}
+::: {.card-body}
 ### Data-Driven Decision Making
+
 I help organizations translate complex data into actionable insights, enabling informed decision-making at all levels of the business. By identifying patterns and trends, I provide the foundation for strategic planning and operational improvements.
 :::
+:::
+:::
 
-::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3 .database-section}
+::: {.col-md-4 .mb-4}
+::: {.card .h-100 .database-card}
+::: {.card-body}
 ### Process Optimization
+
 I analyze business processes to identify inefficiencies and bottlenecks, then develop and implement data-driven solutions to streamline operations. This leads to improved workflow efficiency, reduced costs, and enhanced productivity.
 :::
-
-::: {.g-col-12 .g-col-md-4 .card .p-3 .mb-3 .technical-section}
-### Technology Integration
-I bridge the gap between business needs and technical solutions, implementing analytics tools and technologies that align with organizational goals. My technical background allows me to communicate effectively with both business stakeholders and technical teams.
+:::
 :::
 
+::: {.col-md-4 .mb-4}
+::: {.card .h-100 .technical-card}
+::: {.card-body}
+### Technology Integration
+
+I bridge the gap between business needs and technical solutions, implementing analytics tools and technologies that align with organizational goals. My technical background allows me to communicate effectively with both business stakeholders and technical teams.
+:::
+:::
+:::
+:::
 :::
 
 ## My Approach
 
-I believe that effective analytics is not just about technical skills but also about understanding the business context and communicating insights clearly. My approach combines:
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6 .card .p-3 .mb-3}
+::: {.container}
+::: {.row .mt-4}
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
 ### Data-Driven Methodology
+
+I follow a structured approach to analytics problems:
+
 - Begin with clearly defined business questions
 - Collect and clean relevant data
 - Apply appropriate analytical techniques
 - Validate findings and test hypotheses
 - Translate results into business recommendations
 :::
+:::
+:::
 
-::: {.g-col-12 .g-col-md-6 .card .p-3 .mb-3}
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
 ### Collaborative Mindset
+
+I believe successful analytics requires effective collaboration:
+
 - Partner with stakeholders to understand needs
 - Communicate complex findings in accessible terms
 - Work cross-functionally to implement solutions
 - Continuously learn and adapt to new challenges
 - Share knowledge and mentor colleagues
 :::
-
+:::
+:::
+:::
 :::
 
-Feel free to [contact me](/contact.qmd){.btn .btn-primary .mt-3} if you'd like to discuss potential collaborations, job opportunities, or just connect to share ideas about data analytics!
+::: {.section-divider}
+:::
+
+::: {.container .center-content}
+## Let's Work Together
+
+I'm always interested in exploring new opportunities to apply my analytics skills to solve complex business challenges. Whether you're looking for a team member, consultant, or just want to connect and exchange ideas, I'd love to hear from you.
+
+[Contact Me](contact.qmd){.btn .btn-primary .mt-3}
+:::

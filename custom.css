@@ -1,0 +1,296 @@
+/*-- scss:defaults --*/
+// Base document colors
+$primary: #3C6E71;
+$secondary: #284B63;
+$dark: #353535;
+$light: #FFFFFF;
+$info: #D9D9D9;
+$body-bg: #FFFFFF;
+$body-color: #353535;
+$link-color: #3C6E71;
+
+// Typography
+$font-family-sans-serif: 'Open Sans', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+$font-family-monospace: 'Source Code Pro', Menlo, Monaco, Consolas, 'Courier New', monospace;
+$headings-font-family: 'Montserrat', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+$headings-font-weight: 600;
+$headings-color: #284B63;
+
+// Container sizes
+$container-max-width: 1200px; 
+
+/*-- scss:rules --*/
+// Header styles
+h1, h2, h3, h4, h5, h6 {
+  text-transform: none;
+  letter-spacing: 0.025em;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: $secondary;
+  border-bottom: 2px solid $primary;
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: $secondary;
+}
+
+h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: $secondary;
+}
+
+// Link styles
+a {
+  text-decoration: none;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    color: darken($primary, 15%);
+  }
+}
+
+// Navbar styles
+.navbar {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  
+  .navbar-brand {
+    font-family: $headings-font-family;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+  }
+  
+  .nav-link {
+    font-weight: 500;
+    margin: 0 0.2rem;
+    position: relative;
+    
+    &:after {
+      content: '';
+      position: absolute;
+      width: 0;
+      height: 2px;
+      display: block;
+      margin-top: 3px;
+      right: 0;
+      background: $primary;
+      transition: width 0.2s ease;
+    }
+    
+    &:hover:after {
+      width: 100%;
+      left: 0;
+    }
+  }
+}
+
+// Cards and sections
+.card {
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+  margin-bottom: 1.5rem;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    color: $secondary;
+    font-weight: 600;
+  }
+}
+
+// Project styles
+.project-card {
+  height: 100%;
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+}
+
+// Timeline styles
+.timeline {
+  position: relative;
+  padding-left: 2rem;
+  
+  &:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(to bottom, $primary, lighten($primary, 30%));
+  }
+  
+  .timeline-item {
+    position: relative;
+    padding-bottom: 2rem;
+    
+    &:before {
+      content: '';
+      position: absolute;
+      left: -2.4rem;
+      top: 0.3rem;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background-color: lighten($primary, 20%);
+      border: 3px solid $primary;
+    }
+  }
+  
+  .timeline-date {
+    font-style: italic;
+    color: darken($info, 40%);
+    margin-bottom: 0.5rem;
+  }
+}
+
+// Buttons
+.btn {
+  border-radius: 4px;
+  padding: 0.6rem 1.2rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  text-transform: none;
+  letter-spacing: 0.025em;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  
+  &:hover {
+    background-color: darken($primary, 10%);
+    border-color: darken($primary, 10%);
+  }
+}
+
+.btn-outline-primary {
+  color: $primary;
+  border-color: $primary;
+  
+  &:hover {
+    background-color: $primary;
+    border-color: $primary;
+  }
+}
+
+// Footer
+.page-footer {
+  padding: 1.5rem 0;
+  background-color: $light;
+  border-top: 1px solid $info;
+}
+
+// Skills section
+.skill-category {
+  margin-bottom: 2rem;
+}
+
+.skill-bar {
+  height: 10px;
+  background-color: lighten($info, 10%);
+  border-radius: 5px;
+  margin-bottom: 1.5rem;
+}
+
+.skill-progress {
+  height: 100%;
+  background: linear-gradient(to right, $primary, lighten($primary, 20%));
+  border-radius: 5px;
+}
+
+// Contact form
+.contact-form .form-control {
+  border-radius: 4px;
+  border: 1px solid $info;
+  padding: 0.8rem;
+  
+  &:focus {
+    box-shadow: none;
+    border-color: $primary;
+  }
+}
+
+// CV
+.cv-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: $light;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+}
+
+.cv-section {
+  margin-bottom: 2rem;
+  padding-left: 1rem;
+  border-left: 3px solid lighten($primary, 20%);
+}
+
+// Tables
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+  
+  th {
+    background-color: lighten($secondary, 55%);
+    border-bottom: 2px solid $secondary;
+    padding: 0.75rem;
+    text-align: left;
+  }
+  
+  td {
+    padding: 0.75rem;
+    border-bottom: 1px solid $info;
+  }
+  
+  tr:hover {
+    background-color: lighten($info, 15%);
+  }
+}
+
+// Code blocks
+pre {
+  border-radius: 6px;
+  background-color: lighten($info, 12%) !important;
+}
+
+// Responsive adjustments
+@media (max-width: 767.98px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.2rem;
+  }
+}
+
+// Incorporate Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@300;400;600;700&family=Source+Code+Pro&display=swap');

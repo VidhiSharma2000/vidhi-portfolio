@@ -1,81 +1,136 @@
 ---
 title: "Vidhi A. Sharma"
-subtitle: "Business Analytics Student and Professional"
 page-layout: full
 ---
 
-# Hello, I'm Vidhi
+::: {.hero-section}
+::: {.container}
+::: {.row}
+::: {.col-md-8 .hero-content .fade-in}
+# Data Analytics Professional
 
 I'm a passionate analytics professional pursuing a Master of Science in Applied Business Analytics at Boston University. With a background in Computer Science and experience as a Business Analyst, I bridge technology and analytics to solve complex business challenges.
 
 My expertise spans data analysis, statistical modeling, and business intelligence, strengthened by skills in Python, R, SQL, and visualization tools like Tableau and Power BI.
 
-This portfolio showcases my academic projects, professional experience, and technical expertise. Explore to learn more about how I leverage data to drive insights and decision-making.
+::: {.hero-buttons}
+[View My Projects](projects.qmd){.btn .btn-primary .me-2} [Download CV](resume/resume-vidhi-sharma.pdf){.btn .btn-outline-primary}
+:::
+:::
 
-[View My Projects](projects.qmd){.btn .btn-primary .mr-2} [Download CV](resume/resume-vidhi-sharma.pdf){.btn .btn-outline-primary}
+::: {.col-md-4 .d-none .d-md-block}
+![](images/data-analytics.svg){fig-alt="Data Analytics Illustration" width="100%"}
+:::
+:::
+:::
+:::
 
-## Featured Skills
+::: {.section-divider}
+:::
 
-::: {.grid}
+## My Expertise
 
-::: {.g-col-12 .g-col-md-4 .card .data-analytics-section}
+::: {.container}
+::: {.row}
+::: {.col-md-4 .mb-4}
+::: {.card .h-100 .data-analytics-card}
+::: {.card-body}
 ### Data Analytics
+
 - Statistical modeling
 - Predictive analytics
 - Trend analysis
 - KPI evaluation
 - Data visualization
 :::
+:::
+:::
 
-::: {.g-col-12 .g-col-md-4 .card .database-section}
+::: {.col-md-4 .mb-4}
+::: {.card .h-100 .database-card}
+::: {.card-body}
 ### Database & Process Management
+
 - SQL & NoSQL Databases
 - ETL workflows
 - Data pipelines
 - Process optimization
 - Workflow efficiency
 :::
+:::
+:::
 
-::: {.g-col-12 .g-col-md-4 .card .technical-section}
+::: {.col-md-4 .mb-4}
+::: {.card .h-100 .technical-card}
+::: {.card-body}
 ### Technical Development
+
 - Python, R programming
 - Tableau, Power BI
 - Cloud platforms (AWS, Azure)
 - Version control (Git)
 - API integration
 :::
+:::
+:::
+:::
+:::
 
+::: {.section-divider}
 :::
 
 ## Featured Projects
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6 .card .project-card}
+::: {.container}
+::: {.row}
+::: {.col-lg-6 .mb-4}
+::: {.card .project-card}
+::: {.card-img-container}
 ![](images/project1.jpg){fig-alt="New York Real Estate Analysis" .card-img-top}
-
+::: {.card-img-overlay}
+[View Project](projects.qmd#real-estate){.btn .btn-light}
+:::
+:::
+::: {.card-body}
 ### New York Real Estate Analysis
+
 Led time series and regression analysis on residential real estate data to identify key sales trends and predictors.
 
-[Learn More](projects.qmd#real-estate){.btn .btn-sm .btn-primary}
+[Learn More](projects.qmd#real-estate){.btn .btn-sm .btn-primary .mt-2}
+:::
+:::
 :::
 
-::: {.g-col-12 .g-col-md-6 .card .project-card}
+::: {.col-lg-6 .mb-4}
+::: {.card .project-card}
+::: {.card-img-container}
 ![](images/project2.jpg){fig-alt="AI vs Non-AI Job Growth Analysis" .card-img-top}
-
+::: {.card-img-overlay}
+[View Project](projects.qmd#job-growth){.btn .btn-light}
+:::
+:::
+::: {.card-body}
 ### AI vs Non-AI Job Growth Analysis
+
 Studied employment trends across industries in 2024 and visualized insights in an AWS-deployed dashboard.
 
-[Learn More](projects.qmd#job-growth){.btn .btn-sm .btn-primary}
+[Learn More](projects.qmd#job-growth){.btn .btn-sm .btn-primary .mt-2}
+:::
+:::
+:::
+:::
 :::
 
+::: {.section-divider}
 :::
 
-## Recent Experience
+## Professional Experience
 
+::: {.container}
 ::: {.timeline}
 
-::: {.timeline-item}
+::: {.timeline-item .fade-in}
+::: {.timeline-content}
 ### Analyst
 #### Maharaj Multi-Systems
 ::: {.timeline-date}
@@ -83,8 +138,10 @@ January 2024 - July 2024
 :::
 Boosted workflow efficiency by 15% through operational data analysis to support better decision-making. Reduced data processing errors by 25% and improved CRM accuracy.
 :::
+:::
 
-::: {.timeline-item}
+::: {.timeline-item .fade-in}
+::: {.timeline-content}
 ### Software and Database Management Intern
 #### Pimpri Chinchwad Media Communication
 ::: {.timeline-date}
@@ -92,7 +149,28 @@ August 2022 - August 2023
 :::
 Reduced resolution times by 20% through efficient troubleshooting and system diagnostics. Assisted in deployment cycles, contributing to end-to-end project management.
 :::
+:::
 
 :::
 
-[View Full Experience](experience.qmd){.btn .btn-outline-primary .mt-3}
+::: {.text-center .mt-4}
+[View Full Experience](experience.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.section-divider}
+:::
+
+## Let's Connect
+
+::: {.container .center-content}
+I'm always interested in new opportunities, collaborations, and discussions about data analytics and technology.
+
+::: {.social-links}
+[{{< bi linkedin >}}](https://in.linkedin.com/in/17vidhisharma){aria-label="LinkedIn"}
+[{{< bi github >}}](https://github.com/VidhiSharma2000){aria-label="GitHub"}
+[{{< bi envelope >}}](mailto:sharmavidhi3008@gmail.com){aria-label="Email"}
+:::
+
+[Contact Me](contact.qmd){.btn .btn-primary .mt-3}
+:::

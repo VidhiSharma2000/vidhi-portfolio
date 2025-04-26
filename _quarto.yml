@@ -6,33 +6,39 @@ project:
 
 website:
   title: "Vidhi A. Sharma"
-  description: "Personal Portfolio | Business Analytics Student and Professional"
+  description: "Business Analytics Professional"
+  site-url: https://vidhisharma2000.github.io/vidhi-portfolio/
+  repo-url: https://github.com/VidhiSharma2000/vidhi-portfolio
   favicon: "images/favicon.png"
+  page-navigation: true
+  back-to-top-navigation: true
+  
   navbar:
+    pinned: true
     background: light
-    logo: "images/logo.png"
+    search: true
+    right:
+      - icon: linkedin
+        href: https://in.linkedin.com/in/17vidhisharma
+      - icon: github
+        href: https://github.com/VidhiSharma2000
+      - icon: envelope
+        href: "mailto:sharmavidhi3008@gmail.com"
     left:
+      - text: "Home"
+        href: index.qmd
       - text: "About"
         href: about.qmd
-      - text: "Education"
-        href: education.qmd
-      - text: "Skills"
-        href: skills.qmd
       - text: "Projects"
         href: projects.qmd
       - text: "Experience"
         href: experience.qmd
+      - text: "Skills"
+        href: skills.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Contact"
         href: contact.qmd
-    right:
-      - icon: github
-        href: https://github.com/VidhiSharma2000
-      - icon: linkedin
-        href: https://in.linkedin.com/in/17vidhisharma
-      - icon: envelope
-        href: "mailto:sharmavidhi3008@gmail.com"
 
   page-footer:
     left: "© 2025 Vidhi A. Sharma. All rights reserved."
@@ -44,9 +50,16 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: [sandstone, custom.scss]
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: right
     page-layout: full
     code-copy: true
     code-line-numbers: true
+    highlight-style: github
+    smooth-scroll: true
+    link-external-newwindow: true
+    fontsize: 1rem
