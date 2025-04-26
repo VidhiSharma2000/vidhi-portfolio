@@ -1,137 +1,115 @@
 ---
 title: "Vidhi A. Sharma"
-page-layout: full
+format: html
 ---
 
-## Business Analytics Professional
+# About Me {#about}
 
-I'm a passionate analytics professional pursuing a Master of Science in Applied Business Analytics at Boston University. With a background in Computer Science and experience as a Business Analyst, I bridge technology and analytics to solve complex business challenges.
+Hi, I'm Vidhi Sharma, currently pursuing my Master’s in Applied Business Analytics at Boston University. With a background in Computer Science and hands-on experience in analytics, operations, and business strategy, I specialize in turning messy data into crystal-clear action.
 
-My expertise spans data analysis, statistical modeling, and business intelligence, strengthened by skills in Python, R, SQL, and visualization tools like Tableau and Power BI.
+I’ve worked across a range of industries and tools, from streamlining backend workflows to building dashboards for non-technical decision makers. I love blending structured logic with creative clarity, and my superpower is making technical insights easy to understand and even easier to act on.
 
-This portfolio showcases my academic projects, professional experience, and technical expertise. Explore to learn more about how I leverage data to drive insights and decision-making.
+---
 
-[View My Projects](projects.qmd){.btn .btn-primary .me-2} [Download CV](resume/resume-vidhi-sharma.pdf){.btn .btn-outline-primary}
+# How I Help Companies {#how-i-help}
 
-<hr class="section-divider">
+I help companies turn scattered, messy data into smart, actionable decisions. Whether it’s through building predictive models, streamlining ETL pipelines, or creating clean, intuitive dashboards, my focus is always on solving real problems with real impact.
 
-## My Expertise
+At the same time, I believe good analytics shouldn’t be intimidating. My job is to make data useful to marketing teams, operations managers, and executives who need clarity, not complexity.
 
-<div class="row">
-  <div class="col-md-4 mb-4">
-    <div class="card h-100 data-analytics-card">
-      <div class="card-body">
-        <h3>Data Analytics</h3>
-        <ul>
-          <li>Statistical modeling</li>
-          <li>Predictive analytics</li>
-          <li>Trend analysis</li>
-          <li>KPI evaluation</li>
-          <li>Data visualization</li>
-        </ul>
-      </div>
-    </div>
+---
+
+# Education {#education}
+
+<div class="card-grid">
+  <div class="card">
+    <h3>Boston University</h3>
+    <p>M.S. in Applied Business Analytics (2024–ongoing)<br>
+    Coursework emphasizes predictive modeling, operations management, and cloud analytics with Spark, AWS, and Tableau.</p>
   </div>
-  
-  <div class="col-md-4 mb-4">
-    <div class="card h-100 database-card">
-      <div class="card-body">
-        <h3>Database & Process Management</h3>
-        <ul>
-          <li>SQL & NoSQL Databases</li>
-          <li>ETL workflows</li>
-          <li>Data pipelines</li>
-          <li>Process optimization</li>
-          <li>Workflow efficiency</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  
-  <div class="col-md-4 mb-4">
-    <div class="card h-100 technical-card">
-      <div class="card-body">
-        <h3>Technical Development</h3>
-        <ul>
-          <li>Python, R programming</li>
-          <li>Tableau, Power BI</li>
-          <li>Cloud platforms (AWS, Azure)</li>
-          <li>Version control (Git)</li>
-          <li>API integration</li>
-        </ul>
-      </div>
-    </div>
+  <div class="card">
+    <h3>MIT World Peace University</h3>
+    <p>B.Sc. in Computer Science (2019–2022, GPA: 3.83/4.0)<br>
+    Foundation in programming, system design, and lean operations.</p>
   </div>
 </div>
 
-<hr class="section-divider">
+---
 
-## Featured Projects
+# Skills {#skills}
 
-<div class="row">
-  <div class="col-lg-6 mb-4">
-    <div class="card project-card">
-      <img src="images/project1.jpg" alt="New York Real Estate Analysis" class="card-img-top">
-      <div class="card-body">
-        <h3>New York Real Estate Analysis</h3>
-        <p>Led time series and regression analysis on residential real estate data to identify key sales trends and predictors.</p>
-        <a href="projects.qmd#real-estate" class="btn btn-sm btn-primary mt-2">Learn More</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-6 mb-4">
-    <div class="card project-card">
-      <img src="images/project2.jpg" alt="AI vs Non-AI Job Growth Analysis" class="card-img-top">
-      <div class="card-body">
-        <h3>AI vs Non-AI Job Growth Analysis</h3>
-        <p>Studied employment trends across industries in 2024 and visualized insights in an AWS-deployed dashboard.</p>
-        <a href="projects.qmd#job-growth" class="btn btn-sm btn-primary mt-2">Learn More</a>
-      </div>
-    </div>
-  </div>
+<div class="card-grid">
+  <div class="card"><h4>Programming, Analytics & Data Science</h4><p>Python, R, SQL, C++, C, forecasting, time series analysis, clustering, A/B testing.</p></div>
+  <div class="card"><h4>Visualization & BI</h4><p>Power BI, Tableau, Excel, SAS, Dataiku, storytelling dashboards, ETL automation.</p></div>
+  <div class="card"><h4>Databases & Cloud</h4><p>PostgreSQL, MySQL, BigQuery, AWS (S3, EC2, SageMaker), Azure, Spark SQL, Airflow.</p></div>
+  <div class="card"><h4>Web & DevOps</h4><p>HTML, CSS, JavaScript, GitHub, Quarto, Git workflows, cloud deployment.</p></div>
 </div>
 
-<hr class="section-divider">
+---
 
-## Professional Experience
+# Experience {#experience}
 
-<div class="timeline">
-  <div class="timeline-item">
-    <h3>Analyst</h3>
-    <h4>Maharaj Multi-Systems</h4>
-    <div class="timeline-date">
-      January 2024 - July 2024
-    </div>
-    <p>Boosted workflow efficiency by 15% through operational data analysis to support better decision-making. Reduced data processing errors by 25% and improved CRM accuracy.</p>
-  </div>
-
-  <div class="timeline-item">
-    <h3>Software and Database Management Intern</h3>
-    <h4>Pimpri Chinchwad Media Communication</h4>
-    <div class="timeline-date">
-      August 2022 - August 2023
-    </div>
-    <p>Reduced resolution times by 20% through efficient troubleshooting and system diagnostics. Assisted in deployment cycles, contributing to end-to-end project management.</p>
-  </div>
+<div class="card">
+  <h3>Maharaj Multi-Systems</h3>
+  <p>Boosted operational efficiency by 15% through workflow automation and CRM audits. Reduced processing errors by 25% and improved client retention by 30%.</p>
 </div>
 
-<div class="text-center mt-4">
-  <a href="experience.qmd" class="btn btn-outline-primary">View Full Experience</a>
+<div class="card">
+  <h3>Pimpri Chinchwad Media Communication</h3>
+  <p>Reduced technical resolution times by 20%. Supported system deployments and strengthened client retention by 40% through solution-focused support.</p>
 </div>
 
-<hr class="section-divider">
+---
 
-## Let's Connect
+# Projects {#projects}
 
-<div class="text-center">
-  <p>I'm always interested in new opportunities, collaborations, and discussions about data analytics and technology.</p>
-  <div class="mt-4">
-    <a href="https://in.linkedin.com/in/17vidhisharma" class="btn btn-outline-primary me-2">LinkedIn</a>
-    <a href="https://github.com/VidhiSharma2000" class="btn btn-outline-primary me-2">GitHub</a>
-    <a href="mailto:sharmavidhi3008@gmail.com" class="btn btn-outline-primary me-2">Email</a>
-  </div>
-  <div class="mt-3">
-    <a href="contact.qmd" class="btn btn-primary">Contact Me</a>
-  </div>
+<div class="card">
+  <h3>New York Real Estate Analysis</h3>
+  <p>Led regression and time series modeling to predict housing prices. Explored seasonal demand trends and outlier behavior in NYC’s market.</p>
 </div>
+
+<div class="card">
+  <h3>Skincare Sales Data Analysis</h3>
+  <p>Analyzed sales data to uncover discount sensitivity and product loyalty patterns. Building an interactive dashboard to visualize consumer behavior trends.</p>
+</div>
+
+<div class="card">
+  <h3>Stickley Adhesives Optimization</h3>
+  <p>Mapped workflows and optimized production operations using Lean methodology. Proposed changes projected to reduce material waste by 10%.</p>
+</div>
+
+<div class="card">
+  <h3>AI vs Non-AI Job Growth Dashboard</h3>
+  <p>Scraped and visualized job market data comparing AI vs non-AI job demand across industries. Dashboard hosted on AWS for HR and student insights.</p>
+</div>
+
+---
+
+# Volunteering {#volunteering}
+
+<div class="card">
+  <h3>Youth Empowerment Foundation</h3>
+  <p>Mentored underserved students, organized skill workshops, and led educational drives.</p>
+</div>
+
+<div class="card">
+  <h3>Help Social Welfare Society</h3>
+  <p>Supported food, medicine, and eldercare logistics for marginalized communities.</p>
+</div>
+
+<div class="card">
+  <h3>Sahaas for Animals</h3>
+  <p>Volunteered at a local animal shelter, managing care and outreach activities.</p>
+</div>
+
+---
+
+# Contact {#contact}
+
+Location: Boston, MA  
+Email: [sharmavidhi3008@gmail.com](mailto:sharmavidhi3008@gmail.com)  
+LinkedIn: [linkedin.com/in/vidhi-sharma](https://linkedin.com/in/vidhi-sharma)  
+GitHub: [github.com/VidhiSharma2000](https://github.com/VidhiSharma2000)
+
+**[Download My Resume](resume%20VIDHI%20A%20SHARMA%20BU.pdf){target=\"_blank\"}**
+
