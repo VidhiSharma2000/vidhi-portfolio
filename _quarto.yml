@@ -7,14 +7,9 @@ project:
 website:
   title: "Vidhi A. Sharma"
   description: "Business Analytics Professional"
-  site-url: https://vidhisharma2000.github.io/vidhi-portfolio/
-  repo-url: https://github.com/VidhiSharma2000/vidhi-portfolio
   favicon: "images/favicon.png"
-  page-navigation: true
-  back-to-top-navigation: true
   
   navbar:
-    pinned: true
     background: light
     search: true
     right:
@@ -50,16 +45,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: [sandstone, custom.scss]
+    theme: sandstone
     css: styles.css
     toc: true
-    toc-depth: 3
-    toc-location: right
     page-layout: full
-    code-copy: true
-    code-line-numbers: true
-    highlight-style: github
-    smooth-scroll: true
-    link-external-newwindow: true
-    fontsize: 1rem

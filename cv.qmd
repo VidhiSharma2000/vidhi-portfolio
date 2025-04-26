@@ -6,89 +6,92 @@ title: "Curriculum Vitae"
 
 This page provides a downloadable version of my resume along with a brief overview of my professional background, skills, and accomplishments.
 
-::: {.cv-download-btn .text-center}
-[Download Full Resume (PDF)](resume/resume-vidhi-sharma.pdf){.btn .btn-primary .btn-lg}
-:::
+<div class="cv-download-btn">
+  <a href="resume/resume-vidhi-sharma.pdf" class="btn btn-primary btn-lg">Download Full Resume (PDF)</a>
+</div>
 
 ## Resume Preview
 
-Below is a preview of my resume content:
+<div class="cv-container">
 
-::: {.cv-container}
-
-::: {.cv-section}
-### Professional Summary
+<div class="cv-section">
+<h3>Professional Summary</h3>
 
 Master's student in Applied Business Analytics at Boston University with a knack for solving operational and analytical challenges through data. Blending tech fluency with structured thinking and a bias for action.
-:::
+</div>
 
-::: {.cv-section}
-### Education
+<div class="cv-section">
+<h3>Education</h3>
 
-**Boston University**  
-*Master of Science, Applied Business Analytics*  
+<strong>Boston University</strong><br>
+<em>Master of Science, Applied Business Analytics</em><br>
 September 2024 - Present
 
-**MIT World Peace University**  
-*Bachelor of Science, Computer Science*  
+<strong>MIT World Peace University</strong><br>
+<em>Bachelor of Science, Computer Science</em><br>
 (GPA: 3.83/4.00) | August 2019 - October 2022
-:::
+</div>
 
-::: {.cv-section}
-### Professional Experience
+<div class="cv-section">
+<h3>Professional Experience</h3>
 
-**Maharaj Multi-Systems** - *Analyst*  
+<strong>Maharaj Multi-Systems</strong> - <em>Analyst</em><br>
 January 2024 - July 2024
-- Boosted workflow efficiency by 15% through operational data analysis to support better decision-making
-- Reduced data processing errors by 25% and improved CRM accuracy (Salesforce, HubSpot), leading to a 30% increase in client retention
-- Partnered with cross-functional teams to streamline operations and optimize resource utilization across departments
+<ul>
+  <li>Boosted workflow efficiency by 15% through operational data analysis to support better decision-making</li>
+  <li>Reduced data processing errors by 25% and improved CRM accuracy (Salesforce, HubSpot), leading to a 30% increase in client retention</li>
+  <li>Partnered with cross-functional teams to streamline operations and optimize resource utilization across departments</li>
+</ul>
 
-**Pimpri Chinchwad Media Communication** - *Software and Database Management Intern*  
+<strong>Pimpri Chinchwad Media Communication</strong> - <em>Software and Database Management Intern</em><br>
 August 2022 - August 2023
-- Reduced resolution times by 20% through efficient troubleshooting and system diagnostics
-- Assisted in deployment cycles, contributing to end-to-end project management, electronics integration, and database management
-- Increased client retention by 40% through solution-oriented communication, customer service and technical support
-:::
+<ul>
+  <li>Reduced resolution times by 20% through efficient troubleshooting and system diagnostics</li>
+  <li>Assisted in deployment cycles, contributing to end-to-end project management, electronics integration, and database management</li>
+  <li>Increased client retention by 40% through solution-oriented communication, customer service and technical support</li>
+</ul>
+</div>
 
-::: {.cv-section}
-### Key Projects
+<div class="cv-section">
+<h3>Key Projects</h3>
 
-**New York Real Estate Analysis**  
+<strong>New York Real Estate Analysis</strong><br>
 Led time series and regression analysis on residential real estate data to identify key sales trends and predictors.
 
-**Stickley Adhesives Operations Analysis & Process Optimization Report**  
+<strong>Stickley Adhesives Operations Analysis & Process Optimization Report</strong><br>
 Analyzed business processes and proposed workflow improvements in a managerial report for Operations Management.
 
-**Skincare Sales Data Analysis**  
+<strong>Skincare Sales Data Analysis</strong><br>
 Self-initiated project exploring consumer behavior, sales trends, and pricing strategy in the beauty industry, currently working on dashboard deployment.
 
-**AI vs Non-AI Job Growth Analysis**  
+<strong>AI vs Non-AI Job Growth Analysis</strong><br>
 Studied employment trends across industries in 2024 and visualized insights in an AWS-deployed dashboard.
-:::
+</div>
 
-::: {.cv-section}
-### Skills
+<div class="cv-section">
+<h3>Skills</h3>
 
-**Analytics**  
+<strong>Analytics</strong><br>
 Data analysis, statistical modeling, predictive analytics, forecasting, trend analysis, KPI evaluation, data visualization, business intelligence, marketing analytics, consumer behavior analysis, dashboard development, operations management, process optimization, workflow efficiency, performance tracking, cost reduction, lean methodology.
 
-**Tools & Technologies**  
+<strong>Tools & Technologies</strong><br>
 Python, R, SQL, Tableau, Power BI, MS Excel, SAS, Dataiku, Azure, PostgreSQL, Apache Spark, AWS, Git/GitHub, ETL workflows, data pipelines, automation, JavaScript, HTML, CSS, Java, C, C++, SAP, CRMs like Salesforce, HubSpot.
 
-**Professional Strengths**  
+<strong>Professional Strengths</strong><br>
 Communication, stakeholder presentation, collaboration, strategic thinking, time management, adaptability, attention to detail, initiative, leadership potential, problem-solving, customer-centric mindset.
-:::
+</div>
 
-::: {.cv-section}
-### Certifications
+<div class="cv-section">
+<h3>Certifications</h3>
+<ul>
+  <li>Front-End Development (Meta)</li>
+  <li>HTML, CSS, JavaScript (Johns Hopkins)</li>
+  <li>Python Basics (University of Michigan)</li>
+  <li>CS50x Computer Science (HarvardX, Harvard University)</li>
+  <li>Introduction to Psychology (Yale)</li>
+</ul>
+</div>
 
-- Front-End Development (Meta)
-- HTML, CSS, JavaScript (Johns Hopkins)
-- Python Basics (University of Michigan)
-- CS50x Computer Science (HarvardX, Harvard University)
-- Introduction to Psychology (Yale)
-:::
-
-:::
+</div>
 
 For a detailed version of my resume with complete information about my experience, projects, and skills, please download the PDF version above or connect with me on [LinkedIn](https://in.linkedin.com/in/17vidhisharma).

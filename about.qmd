@@ -2,95 +2,87 @@
 title: "About Me"
 ---
 
-::: {.about-section .fade-in}
 ## Professional Profile
 
 Hello! I'm Vidhi, a passionate analytics student currently pursuing my Master of Science in Applied Business Analytics at Boston University. With a background in Computer Science and professional experience as a Business Analyst, I'm developing advanced skills to tackle complex problems through technology and analytics.
 
 My journey in data started during my undergraduate studies, where I discovered the power of transforming raw data into meaningful insights. Since then, I've been on a mission to leverage data-driven approaches to solve real-world challenges and enable better business decisions.
-:::
+
+<hr class="section-divider">
 
 ## How I Help Organizations
 
-::: {.container}
-::: {.row}
-::: {.col-md-4 .mb-4}
-::: {.card .h-100 .data-analytics-card}
-::: {.card-body}
-### Data-Driven Decision Making
+<div class="row">
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 data-analytics-card">
+      <div class="card-body">
+        <h3>Data-Driven Decision Making</h3>
+        <p>I help organizations translate complex data into actionable insights, enabling informed decision-making at all levels of the business. By identifying patterns and trends, I provide the foundation for strategic planning and operational improvements.</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 database-card">
+      <div class="card-body">
+        <h3>Process Optimization</h3>
+        <p>I analyze business processes to identify inefficiencies and bottlenecks, then develop and implement data-driven solutions to streamline operations. This leads to improved workflow efficiency, reduced costs, and enhanced productivity.</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 technical-card">
+      <div class="card-body">
+        <h3>Technology Integration</h3>
+        <p>I bridge the gap between business needs and technical solutions, implementing analytics tools and technologies that align with organizational goals. My technical background allows me to communicate effectively with both business stakeholders and technical teams.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-I help organizations translate complex data into actionable insights, enabling informed decision-making at all levels of the business. By identifying patterns and trends, I provide the foundation for strategic planning and operational improvements.
-:::
-:::
-:::
-
-::: {.col-md-4 .mb-4}
-::: {.card .h-100 .database-card}
-::: {.card-body}
-### Process Optimization
-
-I analyze business processes to identify inefficiencies and bottlenecks, then develop and implement data-driven solutions to streamline operations. This leads to improved workflow efficiency, reduced costs, and enhanced productivity.
-:::
-:::
-:::
-
-::: {.col-md-4 .mb-4}
-::: {.card .h-100 .technical-card}
-::: {.card-body}
-### Technology Integration
-
-I bridge the gap between business needs and technical solutions, implementing analytics tools and technologies that align with organizational goals. My technical background allows me to communicate effectively with both business stakeholders and technical teams.
-:::
-:::
-:::
-:::
-:::
+<hr class="section-divider">
 
 ## My Approach
 
-::: {.container}
-::: {.row .mt-4}
-::: {.col-md-6 .mb-4}
-::: {.card .h-100}
-::: {.card-body}
-### Data-Driven Methodology
+<div class="row">
+  <div class="col-md-6 mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h3>Data-Driven Methodology</h3>
+        <p>I follow a structured approach to analytics problems:</p>
+        <ul>
+          <li>Begin with clearly defined business questions</li>
+          <li>Collect and clean relevant data</li>
+          <li>Apply appropriate analytical techniques</li>
+          <li>Validate findings and test hypotheses</li>
+          <li>Translate results into business recommendations</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-6 mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h3>Collaborative Mindset</h3>
+        <p>I believe successful analytics requires effective collaboration:</p>
+        <ul>
+          <li>Partner with stakeholders to understand needs</li>
+          <li>Communicate complex findings in accessible terms</li>
+          <li>Work cross-functionally to implement solutions</li>
+          <li>Continuously learn and adapt to new challenges</li>
+          <li>Share knowledge and mentor colleagues</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
-I follow a structured approach to analytics problems:
+<hr class="section-divider">
 
-- Begin with clearly defined business questions
-- Collect and clean relevant data
-- Apply appropriate analytical techniques
-- Validate findings and test hypotheses
-- Translate results into business recommendations
-:::
-:::
-:::
-
-::: {.col-md-6 .mb-4}
-::: {.card .h-100}
-::: {.card-body}
-### Collaborative Mindset
-
-I believe successful analytics requires effective collaboration:
-
-- Partner with stakeholders to understand needs
-- Communicate complex findings in accessible terms
-- Work cross-functionally to implement solutions
-- Continuously learn and adapt to new challenges
-- Share knowledge and mentor colleagues
-:::
-:::
-:::
-:::
-:::
-
-::: {.section-divider}
-:::
-
-::: {.container .center-content}
-## Let's Work Together
-
-I'm always interested in exploring new opportunities to apply my analytics skills to solve complex business challenges. Whether you're looking for a team member, consultant, or just want to connect and exchange ideas, I'd love to hear from you.
-
-[Contact Me](contact.qmd){.btn .btn-primary .mt-3}
-:::
+<div class="text-center">
+  <h2>Let's Work Together</h2>
+  <p>I'm always interested in exploring new opportunities to apply my analytics skills to solve complex business challenges. Whether you're looking for a team member, consultant, or just want to connect and exchange ideas, I'd love to hear from you.</p>
+  <a href="contact.qmd" class="btn btn-primary mt-3">Contact Me</a>
+</div>
